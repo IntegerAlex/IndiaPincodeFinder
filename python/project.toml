@@ -1,0 +1,19 @@
+[project]
+name = "indiapincodefinder"
+version = "1.0.0"
+authors = [
+  { name="Akshat Kotpalliwar", email="akshatkot@gmail.com" },
+]
+description = "IndiaPincodeFinder is a Python module that helps you find detailed Indian address information by using a valid 6-digit PIN code. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
