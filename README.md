@@ -171,4 +171,4 @@ This project is for educational purposes only. The data is sourced from public d
 
 ## 📄 Contact
 
-For any questions or feedback, please contact [@IntegerAlex](https://github.com/IntegerAlex) or [@AniketDhumal](https://github.com/Aniket-Dhumal).
+For any questions or feedback, please contact [@IntegerAlex](mailto:inquiry.akshatkotpalliwar@gmail.com) or [@AniketDhumal](mailto:anikethd1410@gmail.com).
