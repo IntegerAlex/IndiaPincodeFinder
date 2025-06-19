@@ -1,0 +1,45 @@
+{
+  "name": "india-pincode-finder",
+  "version": "1.0.0",
+  "description": "Find detailed Indian address information by using a valid 6-digit PIN code. Ideal for logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "data"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "npm run build && node test/test.js",
+    "interactive": "npm run build && node test/interactive.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "india",
+    "pincode",
+    "postal",
+    "zip",
+    "address",
+    "lookup",
+    "geocode",
+    "location"
+  ],
+  "author": "Aniket Dhumal, Akshat Kotpalliwar (alias IntegerAlex on GitHub)",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntegerAlex/IndiaPincodeFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IntegerAlex/IndiaPincodeFinder/issues"
+  },
+  "homepage": "https://github.com/IntegerAlex/IndiaPincodeFinder#readme",
+  "devDependencies": {
+    "@types/flat-cache": "^2.0.2",
+    "@types/node": "^20.11.28",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "flat-cache": "^6.1.10"
+  }
+}
