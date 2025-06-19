@@ -1,8 +1,10 @@
 import * as fs from 'fs';
 import * as path from 'path';
-// Using require for flat-cache due to its CommonJS format
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const flatCache = require('flat-cache');
+import { fileURLToPath } from 'url';
+
+// Get __dirname equivalent for ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Type definitions
 export interface PincodeData {
@@ -12,51 +14,27 @@ export interface PincodeData {
   [key: string]: string;
 }
 
-interface CachedPincodeData {
-  data: {[key: string]: PincodeData};
-  mtime: number;
-}
-
-// Create cache instance
-const cache = flatCache.create('pincode-cache', path.join(__dirname, '..', 'data'));
-
 // In-memory cache for frequently accessed data
 let pincodeCache: { [key: string]: PincodeData } = {};
+let cacheLoaded = false;
 
 /**
- * Loads pincode data with automatic disk caching
+ * Loads pincode data with in-memory caching
  * @param jsonPath Optional path to a custom JSON file
  */
 export function loadPincodeData(jsonPath?: string): { [key: string]: PincodeData } {
   // Return in-memory cache if available
-  if (Object.keys(pincodeCache).length > 0) {
+  if (cacheLoaded && Object.keys(pincodeCache).length > 0) {
     return pincodeCache;
   }
 
   const dataPath = jsonPath || path.join(__dirname, '..', 'data', 'pincode.json');
-  const cacheKey = 'pincode-data';
   
   try {
-    // Get file stats for cache invalidation
-    const fileStats = fs.statSync(dataPath);
-    const cachedData = cache.getKey(cacheKey) as CachedPincodeData | undefined;
-    
-    // Check if cache is valid (file hasn't changed)
-    if (cachedData && cachedData.mtime === fileStats.mtime.getTime()) {
-      pincodeCache = cachedData.data;
-      return pincodeCache;
-    }
-
     // Load and parse fresh data
     const rawData = fs.readFileSync(dataPath, 'utf8');
     pincodeCache = JSON.parse(rawData);
-
-    // Cache the data with file modification time
-    cache.setKey(cacheKey, {
-      data: pincodeCache,
-      mtime: fileStats.mtime.getTime(),
-    });
-    cache.save(); // Persist to disk
+    cacheLoaded = true;
 
     return pincodeCache;
   } catch (error) {
@@ -69,8 +47,8 @@ export function loadPincodeData(jsonPath?: string): { [key: string]: PincodeData
  * Clear all cached data
  */
 export function clearCache(): void {
-  cache.removeCacheFile();
   pincodeCache = {};
+  cacheLoaded = false;
 }
 
 /**

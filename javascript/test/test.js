@@ -3,12 +3,12 @@
  */
 
 // Import package functions
-const { 
+import { 
   pinToAddress,
   pinToState, 
   pinToDistrict, 
   pinToTaluka 
-} = require('../dist');
+} from '../dist/index.mjs';
 
 console.log('✓ Successfully imported all functions from india-pincode-finder');
 

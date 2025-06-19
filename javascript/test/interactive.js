@@ -2,13 +2,13 @@
  * Interactive test for India Pincode Finder
  */
 
-const readline = require('readline');
-const { 
+import readline from 'readline';
+import { 
   pinToAddress,
   pinToState, 
   pinToDistrict, 
   pinToTaluka 
-} = require('../dist');
+} from '../dist/index.mjs';
 
 function interactiveTest() {
   console.log('🔍 India Pincode Finder Interactive Tester');
