@@ -2,14 +2,20 @@
   "name": "india-pincode-finder",
   "version": "1.0.0",
   "description": "Find detailed Indian address information by using a valid 6-digit PIN code. Ideal for logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.",
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist",
-    "data"
+    "data",
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "tsconfig.json",
+    "rollup.config.js"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "rollup -c",
     "test": "npm run build && node test/test.js",
     "interactive": "npm run build && node test/interactive.js",
     "prepublishOnly": "npm run build"
@@ -35,8 +41,12 @@
   },
   "homepage": "https://github.com/IntegerAlex/IndiaPincodeFinder#readme",
   "devDependencies": {
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.3",
     "@types/flat-cache": "^2.0.2",
     "@types/node": "^20.11.28",
+    "rollup": "^4.44.0",
     "typescript": "^5.0.0"
   },
   "dependencies": {
