@@ -51,6 +51,7 @@ console.log(pinToTaluka(411001));
 Get full address details for a pincode.
 
 - **pincode**: 6-digit PIN code (number)
+- **Throws**: `Error` if the pincode is not a valid 6-digit number.
 - **Returns**: 
   - `object`: An object like `{ district: string; block: string; state: string; }` if found.
   - `null`: If no data is found for the given pincode.
@@ -60,6 +61,7 @@ Get full address details for a pincode.
 Get state for a pincode.
 
 - **pincode**: 6-digit PIN code (number)
+- **Throws**: `Error` if the pincode is not a valid 6-digit number.
 - **Returns**: 
   - `string`: The name of the state if found.
   - `null`: If no data is found for the given pincode.
@@ -69,6 +71,7 @@ Get state for a pincode.
 Get district for a pincode.
 
 - **pincode**: 6-digit PIN code (number)
+- **Throws**: `Error` if the pincode is not a valid 6-digit number.
 - **Returns**: 
   - `string`: The name of the district if found.
   - `null`: If no data is found for the given pincode.
@@ -78,6 +81,7 @@ Get district for a pincode.
 Get taluka/block for a pincode.
 
 - **pincode**: 6-digit PIN code (number)
+- **Throws**: `Error` if the pincode is not a valid 6-digit number.
 - **Returns**: 
   - `string`: The name of the taluka/block if found.
   - `null`: If no data is found for the given pincode.

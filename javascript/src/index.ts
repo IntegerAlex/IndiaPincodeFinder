@@ -77,8 +77,12 @@ export function clearCache(): void {
  * Get full address details for a pincode
  * @param pincode 6-digit PIN code
  * @returns Address object or null if not found
+ * @throws Error if the pincode is not a valid 6-digit number.
  */
 export function pinToAddress(pincode: number): PincodeData | null {
+  if (typeof pincode !== 'number' || !/^[0-9]{6}$/.test(pincode.toString())) {
+    throw new Error('Pincode must be a 6-digit number.');
+  }
   const data = loadPincodeData();
   return data[pincode.toString()] || null;
 }
@@ -87,8 +91,12 @@ export function pinToAddress(pincode: number): PincodeData | null {
  * Get state for a pincode
  * @param pincode 6-digit PIN code
  * @returns State name or null if not found
+ * @throws Error if the pincode is not a valid 6-digit number.
  */
 export function pinToState(pincode: number): string | null {
+  if (typeof pincode !== 'number' || !/^[0-9]{6}$/.test(pincode.toString())) {
+    throw new Error('Pincode must be a 6-digit number.');
+  }
   const data = pinToAddress(pincode);
   return data?.state || null;
 }
@@ -97,8 +105,12 @@ export function pinToState(pincode: number): string | null {
  * Get district for a pincode
  * @param pincode 6-digit PIN code
  * @returns District name or null if not found
+ * @throws Error if the pincode is not a valid 6-digit number.
  */
 export function pinToDistrict(pincode: number): string | null {
+  if (typeof pincode !== 'number' || !/^[0-9]{6}$/.test(pincode.toString())) {
+    throw new Error('Pincode must be a 6-digit number.');
+  }
   const data = pinToAddress(pincode);
   return data?.district || null;
 }
@@ -107,8 +119,12 @@ export function pinToDistrict(pincode: number): string | null {
  * Get taluka/block for a pincode
  * @param pincode 6-digit PIN code
  * @returns Taluka/Block name or null if not found
+ * @throws Error if the pincode is not a valid 6-digit number.
  */
 export function pinToTaluka(pincode: number): string | null {
+  if (typeof pincode !== 'number' || !/^[0-9]{6}$/.test(pincode.toString())) {
+    throw new Error('Pincode must be a 6-digit number.');
+  }
   const data = pinToAddress(pincode);
   return data?.block || null;
 }
