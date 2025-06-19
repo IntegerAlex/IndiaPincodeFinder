@@ -1,0 +1,47 @@
+Metadata-Version: 2.4
+Name: indiapincodefinder
+Version: 1.0.0
+Summary: IndiaPincodeFinder is a Python module that helps you find detailed Indian address information by using a valid 6-digit PIN code. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.
+Author-email: Akshat Kotpalliwar <akshatkot@gmail.com>, Aniket Dhumal <aniketdhumal@example.com>
+Project-URL: Homepage, https://github.com/IntegerAlex/IndiaPincodeFinder
+Project-URL: Issues, https://github.com/IntegerAlex/IndiaPincodeFinder/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: diskcache
+
+# IndiaPincodeFinder
+
+IndiaPincodeFinder is a Python module that helps you find detailed Indian address information by using a valid 6-digit PIN code. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.
+
+## Installation
+
+```bash
+pip install indiapincodefinder
+```
+
+## Usage
+
+```python
+from indiapincodefinder import pin_to_address, pin_to_state, pin_to_district, pin_to_taluka
+
+# Get the full address details for a pincode
+print(pin_to_address(411001))
+
+# Get the state for a pincode
+print(pin_to_state(411001))
+
+# Get the district for a pincode
+print(pin_to_district(411001))
+
+# Get the taluka/block for a pincode
+print(pin_to_taluka(411001))
+```
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+For commercial use without GPL compliance, please contact the authors for licensing options. 
