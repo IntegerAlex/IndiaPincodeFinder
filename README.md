@@ -24,3 +24,41 @@ Install via `pip`:
 
 ```bash
 pip install indiapincodefinder
+```
+
+## 📖 Usage
+
+```python
+import indiapincodefinder
+
+# Get address by Pincode
+address = indiapincodefinder.pin_to_address(pincode=400001)
+
+# Get state by Pincode
+state = indiapincodefinder.pin_to_state(pincode=400001)
+
+# Get district by Pincode
+district = indiapincodefinder.pin_to_district(pincode=400001)
+
+# Get taluka by Pincode
+taluka = indiapincodefinder.pin_to_taluka(pincode=400001)
+
+```
+
+## 📄 License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+## Copyright
+
+[@IntegerAlex](https://github.com/IntegerAlex)
+[@AniketDhumal](https://github.com/AniketDhumal)
+[@Agribid](https://github.com/Agribid)
+
+## 📄 Disclaimer
+
+This project is for educational purposes only. The data is sourced from public databases.
+
+## 📄 Contact
+
+For any questions or feedback, please contact [@IntegerAlex](https://github.com/IntegerAlex) or [@AniketDhumal](https://github.com/AniketDhumal).
