@@ -1,4 +1,6 @@
 # 🇮🇳 IndiaPincodeFinder
+[![PyPI Downloads](https://static.pepy.tech/badge/indiapincodefinder)](https://pepy.tech/projects/indiapincodefinder)
+![NPM Downloads](https://img.shields.io/npm/dt/india-pincode-finder?style=plastic&logo=npm)
 
 **Pending Tasks**
 1) Writing Development Docs/Guide
