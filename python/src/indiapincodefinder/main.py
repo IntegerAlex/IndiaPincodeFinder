@@ -5,6 +5,14 @@ from diskcache import Cache
 cache = Cache(directory=os.path.expanduser('~/.pincodeinfo_cache'))
 
 def load_pincode_data(json_path=None):
+    """
+    Load pincode data from a JSON file and populate the persistent cache.
+    
+    If no path is provided, loads from the default bundled JSON file. Supports both a normalized format (with 'locations' and 'pincodes' keys) and the original flat mapping format. Each pincode is stored as an integer key in the cache with its associated location or address information.
+    
+    Parameters:
+        json_path (str, optional): Path to the JSON file containing pincode data. If not provided, uses the default bundled file.
+    """
     if json_path is None:
         # Load default bundled JSON
         json_path = os.path.join(os.path.dirname(__file__), 'data', 'pincode.json')
