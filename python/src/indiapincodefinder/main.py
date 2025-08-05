@@ -11,8 +11,21 @@ def load_pincode_data(json_path=None):
 
     with open(json_path, 'r') as f:
         data = json.load(f)
-        for pin, address in data.items():
-            cache[int(pin)] = address
+        
+        # Handle normalized JSON structure
+        if 'locations' in data and 'pincodes' in data:
+            # New normalized format
+            locations = data['locations']
+            pincodes = data['pincodes']
+            
+            # Convert to original format for backward compatibility
+            for pin, location_id in pincodes.items():
+                location_info = locations[str(location_id)]
+                cache[int(pin)] = location_info
+        else:
+            # Original format (fallback)
+            for pin, address in data.items():
+                cache[int(pin)] = address
 
 # Call once when module is imported
 if len(cache) == 0:

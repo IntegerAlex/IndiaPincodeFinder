@@ -1,12 +1,12 @@
 Metadata-Version: 2.4
 Name: indiapincodefinder
-Version: 1.0.0
+Version: 2.0.0
 Summary: IndiaPincodeFinder is a Python module that helps you find detailed Indian address information by using a valid 6-digit PIN code. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.
-Author-email: Akshat Kotpalliwar <akshatkot@gmail.com>, Aniket Dhumal <aniketdhumal@example.com>
+Author-email: Akshat Kotpalliwar <akshatkot@gmail.com>, Aniket Dhumal <anikethd1410@gmail.com>
+License-Expression: GPL-3.0-only
 Project-URL: Homepage, https://github.com/IntegerAlex/IndiaPincodeFinder
 Project-URL: Issues, https://github.com/IntegerAlex/IndiaPincodeFinder/issues
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
