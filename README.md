@@ -2,11 +2,6 @@
 [![PyPI Downloads](https://static.pepy.tech/badge/indiapincodefinder)](https://pepy.tech/projects/indiapincodefinder)
 ![NPM Downloads](https://img.shields.io/npm/dt/india-pincode-finder?style=plastic&logo=npm)
 
-**Pending Tasks**
-1) Writing Development Docs/Guide
-2) Pushing to PIP
-3) Language Specefic Development
-
 **IndiaPincodeFinder** is a versatile module available in both **Python** and **JavaScript (Node.js)** that helps you **find detailed Indian address information by using a valid 6-digit PIN code**. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.
 
 ---
