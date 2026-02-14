@@ -1,1 +1,3 @@
 /.venv/
+# Downloaded government CSV (large)
+scripts/data/

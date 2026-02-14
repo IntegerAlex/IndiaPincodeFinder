@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "indiapincodefinder"
-version = "2.0.0"
+version = "2.1.0"
 authors = [
   { name="Akshat Kotpalliwar", email="akshatkot@gmail.com" },
   { name="Aniket Dhumal", email="anikethd1410@gmail.com" }

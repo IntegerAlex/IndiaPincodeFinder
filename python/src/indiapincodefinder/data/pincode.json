@@ -13,7 +13,7 @@
     "3": {
       "state": "Delhi",
       "district": "North Delhi",
-      "block": "NA"
+      "block": "Delhi"
     },
     "4": {
       "state": "Delhi",
@@ -23,12 +23,12 @@
     "5": {
       "state": "Delhi",
       "district": "North West Delhi",
-      "block": "NA"
+      "block": "Delhi"
     },
     "6": {
       "state": "Delhi",
       "district": "South West Delhi",
-      "block": "NA"
+      "block": "New Delhi"
     },
     "7": {
       "state": "Delhi",
@@ -38,7 +38,7 @@
     "8": {
       "state": "Delhi",
       "district": "South Delhi",
-      "block": "NA"
+      "block": "New Delhi"
     },
     "9": {
       "state": "Delhi",
@@ -53,7 +53,7 @@
     "11": {
       "state": "Delhi",
       "district": "North East Delhi",
-      "block": "NA"
+      "block": "Delhi North East"
     },
     "12": {
       "state": "Delhi",
@@ -68,7 +68,7 @@
     "14": {
       "state": "Delhi",
       "district": "West Delhi",
-      "block": "NA"
+      "block": "New Delhi"
     },
     "15": {
       "state": "Delhi",
@@ -113,7 +113,7 @@
     "23": {
       "state": "Haryana",
       "district": "Gurgaon",
-      "block": "NA"
+      "block": "Dlf Qe"
     },
     "24": {
       "state": "Haryana",
@@ -348,7 +348,7 @@
     "70": {
       "state": "Haryana",
       "district": "Sirsa",
-      "block": "NA"
+      "block": "Sirsa"
     },
     "71": {
       "state": "Haryana",
@@ -428,7 +428,7 @@
     "86": {
       "state": "Haryana",
       "district": "Sonipat",
-      "block": "NA"
+      "block": "Ganaur"
     },
     "87": {
       "state": "Haryana",
@@ -488,7 +488,7 @@
     "98": {
       "state": "Haryana",
       "district": "Ambala",
-      "block": "NA"
+      "block": "Ambala"
     },
     "99": {
       "state": "Haryana",
@@ -613,7 +613,7 @@
     "123": {
       "state": "Punjab",
       "district": "Mohali",
-      "block": "NA"
+      "block": "Rupnagar"
     },
     "124": {
       "state": "Punjab",
@@ -703,7 +703,7 @@
     "141": {
       "state": "Punjab",
       "district": "Patiala",
-      "block": "NA"
+      "block": "Rajpura"
     },
     "142": {
       "state": "Punjab",
@@ -733,7 +733,7 @@
     "147": {
       "state": "Punjab",
       "district": "Ludhiana",
-      "block": "NA"
+      "block": "Ludhiana"
     },
     "148": {
       "state": "Punjab",
@@ -838,7 +838,7 @@
     "168": {
       "state": "Punjab",
       "district": "Amritsar",
-      "block": "NA"
+      "block": "Amritsar -I"
     },
     "169": {
       "state": "Punjab",
@@ -853,7 +853,7 @@
     "171": {
       "state": "Punjab",
       "district": "Tarn Taran",
-      "block": "NA"
+      "block": "Khilchian"
     },
     "172": {
       "state": "Punjab",
@@ -948,7 +948,7 @@
     "190": {
       "state": "Punjab",
       "district": "Gurdaspur",
-      "block": "NA"
+      "block": "Dera Baba Nanak"
     },
     "191": {
       "state": "Punjab",
@@ -1003,7 +1003,7 @@
     "201": {
       "state": "Punjab",
       "district": "Hoshiarpur",
-      "block": "NA"
+      "block": "Hoshiarpur"
     },
     "202": {
       "state": "Punjab",
@@ -1073,7 +1073,7 @@
     "215": {
       "state": "Punjab",
       "district": "Jalandhar",
-      "block": "NA"
+      "block": "Jalandhar -II"
     },
     "216": {
       "state": "Punjab",
@@ -1158,12 +1158,12 @@
     "232": {
       "state": "Punjab",
       "district": "Sangrur",
-      "block": "NA"
+      "block": "Barnala"
     },
     "233": {
       "state": "Punjab",
       "district": "Barnala",
-      "block": "NA"
+      "block": "Barnala"
     },
     "234": {
       "state": "Punjab",
@@ -1208,7 +1208,7 @@
     "242": {
       "state": "Punjab",
       "district": "Faridkot",
-      "block": "NA"
+      "block": "Jaitu"
     },
     "243": {
       "state": "Punjab",
@@ -1308,7 +1308,7 @@
     "262": {
       "state": "Chandigarh",
       "district": "Chandigarh",
-      "block": "NA"
+      "block": "Chandigarh"
     },
     "263": {
       "state": "Himachal Pradesh",
@@ -1333,7 +1333,7 @@
     "267": {
       "state": "Himachal Pradesh",
       "district": "Solan",
-      "block": "NA"
+      "block": "Kasauli"
     },
     "268": {
       "state": "Himachal Pradesh",
@@ -1903,7 +1903,7 @@
     "381": {
       "state": "Himachal Pradesh",
       "district": "Kangra",
-      "block": "NA"
+      "block": "Shahpur(T)"
     },
     "382": {
       "state": "Himachal Pradesh",
@@ -2038,7 +2038,7 @@
     "408": {
       "state": "Jammu & Kashmir",
       "district": "Jammu",
-      "block": "NA"
+      "block": "Jammu"
     },
     "409": {
       "state": "Jammu & Kashmir",
@@ -2103,7 +2103,7 @@
     "421": {
       "state": "Jammu & Kashmir",
       "district": "Kathua",
-      "block": "NA"
+      "block": "Kathua"
     },
     "422": {
       "state": "Jammu & Kashmir",
@@ -2203,7 +2203,7 @@
     "441": {
       "state": "Jammu & Kashmir",
       "district": "Srinagar",
-      "block": "NA"
+      "block": "Noushera"
     },
     "442": {
       "state": "Jammu & Kashmir",
@@ -2228,7 +2228,7 @@
     "446": {
       "state": "Jammu & Kashmir",
       "district": "Budgam",
-      "block": "NA"
+      "block": "R H Hall"
     },
     "447": {
       "state": "Jammu & Kashmir",
@@ -2273,7 +2273,7 @@
     "455": {
       "state": "Jammu & Kashmir",
       "district": "Ananthnag",
-      "block": "NA"
+      "block": "Awantipora"
     },
     "456": {
       "state": "Jammu & Kashmir",
@@ -2398,7 +2398,7 @@
     "480": {
       "state": "Jammu & Kashmir",
       "district": "Baramulla",
-      "block": "NA"
+      "block": "Tangmarg"
     },
     "481": {
       "state": "Jammu & Kashmir",
@@ -2528,7 +2528,7 @@
     "506": {
       "state": "Uttar Pradesh",
       "district": "Aligarh",
-      "block": "NA"
+      "block": "Aligarh"
     },
     "507": {
       "state": "Uttar Pradesh",
@@ -2538,7 +2538,7 @@
     "508": {
       "state": "Uttar Pradesh",
       "district": "Bulandshahr",
-      "block": "NA"
+      "block": "Bulandshahr"
     },
     "509": {
       "state": "Uttar Pradesh",
@@ -2613,7 +2613,7 @@
     "523": {
       "state": "Uttar Pradesh",
       "district": "Hathras",
-      "block": "NA"
+      "block": "Aligarh"
     },
     "524": {
       "state": "Uttar Pradesh",
@@ -2643,7 +2643,7 @@
     "529": {
       "state": "Uttar Pradesh",
       "district": "Mainpuri",
-      "block": "NA"
+      "block": "Bhongaon"
     },
     "530": {
       "state": "Uttar Pradesh",
@@ -2688,7 +2688,7 @@
     "538": {
       "state": "Uttar Pradesh",
       "district": "Auraiya",
-      "block": "NA"
+      "block": "Bidhuna"
     },
     "539": {
       "state": "Uttar Pradesh",
@@ -2703,7 +2703,7 @@
     "541": {
       "state": "Uttar Pradesh",
       "district": "Etah",
-      "block": "NA"
+      "block": "Etah"
     },
     "542": {
       "state": "Uttar Pradesh",
@@ -3013,7 +3013,7 @@
     "603": {
       "state": "Uttar Pradesh",
       "district": "Mahoba",
-      "block": "NA"
+      "block": "Hamirpur"
     },
     "604": {
       "state": "Uttar Pradesh",
@@ -3133,7 +3133,7 @@
     "627": {
       "state": "Uttar Pradesh",
       "district": "Varanasi",
-      "block": "NA"
+      "block": "Varanasi"
     },
     "628": {
       "state": "Uttar Pradesh",
@@ -3303,7 +3303,7 @@
     "661": {
       "state": "Uttar Pradesh",
       "district": "Faizabad",
-      "block": "NA"
+      "block": "Rudauli"
     },
     "662": {
       "state": "Uttar Pradesh",
@@ -3448,7 +3448,7 @@
     "690": {
       "state": "Uttar Pradesh",
       "district": "Lucknow",
-      "block": "NA"
+      "block": "Mohanlalganj"
     },
     "691": {
       "state": "Uttar Pradesh",
@@ -3758,7 +3758,7 @@
     "752": {
       "state": "Uttar Pradesh",
       "district": "Hardoi",
-      "block": "NA"
+      "block": "Sandila"
     },
     "753": {
       "state": "Uttar Pradesh",
@@ -3838,7 +3838,7 @@
     "768": {
       "state": "Uttar Pradesh",
       "district": "Budaun",
-      "block": "NA"
+      "block": "Dataganj"
     },
     "769": {
       "state": "Uttar Pradesh",
@@ -4223,7 +4223,7 @@
     "845": {
       "state": "Uttarakhand",
       "district": "Dehradun",
-      "block": "NA"
+      "block": "Vikasnagar **"
     },
     "846": {
       "state": "Uttarakhand",
@@ -4673,7 +4673,7 @@
     "935": {
       "state": "Uttar Pradesh",
       "district": "Gonda",
-      "block": "NA"
+      "block": "Gonda"
     },
     "936": {
       "state": "Uttar Pradesh",
@@ -4783,7 +4783,7 @@
     "957": {
       "state": "Uttar Pradesh",
       "district": "Bahraich",
-      "block": "NA"
+      "block": "Kaiserganj"
     },
     "958": {
       "state": "Uttar Pradesh",
@@ -4828,12 +4828,12 @@
     "966": {
       "state": "Uttar Pradesh",
       "district": "Basti",
-      "block": "NA"
+      "block": "Basti Sadar"
     },
     "967": {
       "state": "Uttar Pradesh",
       "district": "Sant Kabir Nagar",
-      "block": "NA"
+      "block": "Dhanghata"
     },
     "968": {
       "state": "Uttar Pradesh",
@@ -4878,7 +4878,7 @@
     "976": {
       "state": "Uttar Pradesh",
       "district": "Gorakhpur",
-      "block": "NA"
+      "block": "Sadar"
     },
     "977": {
       "state": "Uttar Pradesh",
@@ -4978,7 +4978,7 @@
     "996": {
       "state": "Uttar Pradesh",
       "district": "Deoria",
-      "block": "NA"
+      "block": "Deoria Sadar"
     },
     "997": {
       "state": "Uttar Pradesh",
@@ -4988,7 +4988,7 @@
     "998": {
       "state": "Uttar Pradesh",
       "district": "Kushinagar",
-      "block": "NA"
+      "block": "Hata"
     },
     "999": {
       "state": "Uttar Pradesh",
@@ -5093,7 +5093,7 @@
     "1019": {
       "state": "Uttar Pradesh",
       "district": "Azamgarh",
-      "block": "NA"
+      "block": "Sadar"
     },
     "1020": {
       "state": "Uttar Pradesh",
@@ -5133,7 +5133,7 @@
     "1027": {
       "state": "Uttar Pradesh",
       "district": "Ballia",
-      "block": "NA"
+      "block": "Bairia"
     },
     "1028": {
       "state": "Uttar Pradesh",
@@ -5183,7 +5183,7 @@
     "1037": {
       "state": "Uttar Pradesh",
       "district": "Agra",
-      "block": "NA"
+      "block": "Etmadpur"
     },
     "1038": {
       "state": "Uttar Pradesh",
@@ -5198,7 +5198,7 @@
     "1040": {
       "state": "Uttar Pradesh",
       "district": "Firozabad",
-      "block": "NA"
+      "block": "Firozabad"
     },
     "1041": {
       "state": "Uttar Pradesh",
@@ -5243,7 +5243,7 @@
     "1049": {
       "state": "Uttar Pradesh",
       "district": "Jhansi",
-      "block": "NA"
+      "block": "Jhansi"
     },
     "1050": {
       "state": "Uttar Pradesh",
@@ -5258,7 +5258,7 @@
     "1052": {
       "state": "Uttar Pradesh",
       "district": "Lalitpur",
-      "block": "NA"
+      "block": "Talbehat"
     },
     "1053": {
       "state": "Uttar Pradesh",
@@ -5293,7 +5293,7 @@
     "1059": {
       "state": "Uttar Pradesh",
       "district": "Jalaun",
-      "block": "NA"
+      "block": "Madhogarh"
     },
     "1060": {
       "state": "Uttar Pradesh",
@@ -5398,7 +5398,7 @@
     "1080": {
       "state": "Rajasthan",
       "district": "Jaipur",
-      "block": "NA"
+      "block": "Jaipur"
     },
     "1081": {
       "state": "Rajasthan",
@@ -5423,7 +5423,7 @@
     "1085": {
       "state": "Rajasthan",
       "district": "Tonk",
-      "block": "NA"
+      "block": "Tonk"
     },
     "1086": {
       "state": "Rajasthan",
@@ -5488,7 +5488,7 @@
     "1098": {
       "state": "Rajasthan",
       "district": "Pali",
-      "block": "NA"
+      "block": "Marwar Jn."
     },
     "1099": {
       "state": "Rajasthan",
@@ -5558,7 +5558,7 @@
     "1112": {
       "state": "Rajasthan",
       "district": "Sirohi",
-      "block": "NA"
+      "block": "Pindwara"
     },
     "1113": {
       "state": "Rajasthan",
@@ -5578,7 +5578,7 @@
     "1116": {
       "state": "Rajasthan",
       "district": "Jalor",
-      "block": "NA"
+      "block": "Ahore"
     },
     "1117": {
       "state": "Rajasthan",
@@ -5593,7 +5593,7 @@
     "1119": {
       "state": "Rajasthan",
       "district": "Bhilwara",
-      "block": "NA"
+      "block": "Bhilwara"
     },
     "1120": {
       "state": "Rajasthan",
@@ -5633,7 +5633,7 @@
     "1127": {
       "state": "Rajasthan",
       "district": "Chittorgarh",
-      "block": "NA"
+      "block": "Bhupalsagar"
     },
     "1128": {
       "state": "Rajasthan",
@@ -5813,7 +5813,7 @@
     "1163": {
       "state": "Rajasthan",
       "district": "Dungarpur",
-      "block": "NA"
+      "block": "Dungarpur"
     },
     "1164": {
       "state": "Rajasthan",
@@ -5883,7 +5883,7 @@
     "1177": {
       "state": "Rajasthan",
       "district": "Sawai Madhopur",
-      "block": "NA"
+      "block": "Sawaimadhopur"
     },
     "1178": {
       "state": "Rajasthan",
@@ -5953,7 +5953,7 @@
     "1191": {
       "state": "Rajasthan",
       "district": "Bundi",
-      "block": "NA"
+      "block": "Bundi"
     },
     "1192": {
       "state": "Rajasthan",
@@ -6123,7 +6123,7 @@
     "1225": {
       "state": "Rajasthan",
       "district": "Sikar",
-      "block": "NA"
+      "block": "Nimkathana"
     },
     "1226": {
       "state": "Rajasthan",
@@ -6188,7 +6188,7 @@
     "1238": {
       "state": "Rajasthan",
       "district": "Ganganagar",
-      "block": "NA"
+      "block": "Sriganganagar"
     },
     "1239": {
       "state": "Rajasthan",
@@ -6308,7 +6308,7 @@
     "1262": {
       "state": "Rajasthan",
       "district": "Nagaur",
-      "block": "NA"
+      "block": "Nagaur"
     },
     "1263": {
       "state": "Rajasthan",
@@ -6363,7 +6363,7 @@
     "1273": {
       "state": "Rajasthan",
       "district": "Jodhpur",
-      "block": "NA"
+      "block": "Asop"
     },
     "1274": {
       "state": "Rajasthan",
@@ -6418,7 +6418,7 @@
     "1284": {
       "state": "Rajasthan",
       "district": "Jaisalmer",
-      "block": "NA"
+      "block": "Jaisalmer"
     },
     "1285": {
       "state": "Rajasthan",
@@ -6613,7 +6613,7 @@
     "1323": {
       "state": "Gujarat",
       "district": "Rajkot",
-      "block": "NA"
+      "block": "Lodhika"
     },
     "1324": {
       "state": "Gujarat",
@@ -6683,7 +6683,7 @@
     "1337": {
       "state": "Gujarat",
       "district": "Porbandar",
-      "block": "NA"
+      "block": "Porbandar"
     },
     "1338": {
       "state": "Gujarat",
@@ -6753,7 +6753,7 @@
     "1351": {
       "state": "Gujarat",
       "district": "Junagadh",
-      "block": "NA"
+      "block": "Junagadh"
     },
     "1352": {
       "state": "Gujarat",
@@ -6898,7 +6898,7 @@
     "1380": {
       "state": "Gujarat",
       "district": "Bhavnagar",
-      "block": "NA"
+      "block": "Sihor"
     },
     "1381": {
       "state": "Gujarat",
@@ -6973,7 +6973,7 @@
     "1395": {
       "state": "Gujarat",
       "district": "Amreli",
-      "block": "NA"
+      "block": "Amreli"
     },
     "1396": {
       "state": "Gujarat",
@@ -7183,7 +7183,7 @@
     "1437": {
       "state": "Gujarat",
       "district": "Ahmedabad",
-      "block": "NA"
+      "block": "Malpur"
     },
     "1438": {
       "state": "Gujarat",
@@ -7578,7 +7578,7 @@
     "1516": {
       "state": "Gujarat",
       "district": "Vadodara",
-      "block": "NA"
+      "block": "Vadodara"
     },
     "1517": {
       "state": "Gujarat",
@@ -7843,7 +7843,7 @@
     "1569": {
       "state": "Gujarat",
       "district": "Surat",
-      "block": "NA"
+      "block": "Variav"
     },
     "1570": {
       "state": "Gujarat",
@@ -7938,7 +7938,7 @@
     "1588": {
       "state": "Maharashtra",
       "district": "Mumbai",
-      "block": "NA"
+      "block": "Mumbai"
     },
     "1589": {
       "state": "Maharashtra",
@@ -8008,7 +8008,7 @@
     "1602": {
       "state": "Maharashtra",
       "district": "Thane",
-      "block": "NA"
+      "block": "Thane"
     },
     "1603": {
       "state": "Maharashtra",
@@ -8188,7 +8188,7 @@
     "1638": {
       "state": "Goa",
       "district": "South Goa",
-      "block": "NA"
+      "block": "Mormugao"
     },
     "1639": {
       "state": "Maharashtra",
@@ -8253,7 +8253,7 @@
     "1651": {
       "state": "Maharashtra",
       "district": "Pune",
-      "block": "NA"
+      "block": "Pune City"
     },
     "1652": {
       "state": "Maharashtra",
@@ -8458,7 +8458,7 @@
     "1692": {
       "state": "Maharashtra",
       "district": "Osmanabad",
-      "block": "NA"
+      "block": "Ahmedpur"
     },
     "1693": {
       "state": "Maharashtra",
@@ -8468,7 +8468,7 @@
     "1694": {
       "state": "Maharashtra",
       "district": "Latur",
-      "block": "NA"
+      "block": "Shirur-Anantpal"
     },
     "1695": {
       "state": "Maharashtra",
@@ -8873,7 +8873,7 @@
     "1775": {
       "state": "Maharashtra",
       "district": "Sindhudurg",
-      "block": "NA"
+      "block": "Malvan"
     },
     "1776": {
       "state": "Maharashtra",
@@ -8948,7 +8948,7 @@
     "1790": {
       "state": "Maharashtra",
       "district": "Nashik",
-      "block": "NA"
+      "block": "Dindori"
     },
     "1791": {
       "state": "Maharashtra",
@@ -9318,7 +9318,7 @@
     "1864": {
       "state": "Maharashtra",
       "district": "Jalna",
-      "block": "NA"
+      "block": "Partur"
     },
     "1865": {
       "state": "Maharashtra",
@@ -9398,7 +9398,7 @@
     "1880": {
       "state": "Maharashtra",
       "district": "Nanded",
-      "block": "NA"
+      "block": "Bhokar"
     },
     "1881": {
       "state": "Maharashtra",
@@ -9568,7 +9568,7 @@
     "1914": {
       "state": "Maharashtra",
       "district": "Nagpur",
-      "block": "NA"
+      "block": "Kuhi"
     },
     "1915": {
       "state": "Maharashtra",
@@ -9883,12 +9883,12 @@
     "1977": {
       "state": "Maharashtra",
       "district": "Washim",
-      "block": "NA"
+      "block": "Akola"
     },
     "1978": {
       "state": "Maharashtra",
       "district": "Akola",
-      "block": "NA"
+      "block": "Akola"
     },
     "1979": {
       "state": "Maharashtra",
@@ -9933,7 +9933,7 @@
     "1987": {
       "state": "Maharashtra",
       "district": "Amravati",
-      "block": "NA"
+      "block": "Amravati"
     },
     "1988": {
       "state": "Maharashtra",
@@ -10448,7 +10448,7 @@
     "2090": {
       "state": "Madhya Pradesh",
       "district": "Hoshangabad",
-      "block": "NA"
+      "block": "Itarsi"
     },
     "2091": {
       "state": "Madhya Pradesh",
@@ -10473,7 +10473,7 @@
     "2095": {
       "state": "Madhya Pradesh",
       "district": "Vidisha",
-      "block": "NA"
+      "block": "Vidisha"
     },
     "2096": {
       "state": "Madhya Pradesh",
@@ -10538,7 +10538,7 @@
     "2108": {
       "state": "Madhya Pradesh",
       "district": "Raisen",
-      "block": "NA"
+      "block": "Goharganj"
     },
     "2109": {
       "state": "Madhya Pradesh",
@@ -11073,7 +11073,7 @@
     "2215": {
       "state": "Madhya Pradesh",
       "district": "Bhind",
-      "block": "NA"
+      "block": "Bhind"
     },
     "2216": {
       "state": "Madhya Pradesh",
@@ -11083,7 +11083,7 @@
     "2217": {
       "state": "Madhya Pradesh",
       "district": "Chhindwara",
-      "block": "NA"
+      "block": "Pandhurna"
     },
     "2218": {
       "state": "Madhya Pradesh",
@@ -11408,7 +11408,7 @@
     "2282": {
       "state": "Madhya Pradesh",
       "district": "Satna",
-      "block": "NA"
+      "block": "Maihar"
     },
     "2283": {
       "state": "Madhya Pradesh",
@@ -11443,7 +11443,7 @@
     "2289": {
       "state": "Madhya Pradesh",
       "district": "Rewa",
-      "block": "NA"
+      "block": "Teonthar"
     },
     "2290": {
       "state": "Madhya Pradesh",
@@ -11518,7 +11518,7 @@
     "2304": {
       "state": "Madhya Pradesh",
       "district": "Narsinghpur",
-      "block": "NA"
+      "block": "Narsimhapur"
     },
     "2305": {
       "state": "Madhya Pradesh",
@@ -11708,7 +11708,7 @@
     "2342": {
       "state": "Chattisgarh",
       "district": "Raipur",
-      "block": "NA"
+      "block": "Baikunth"
     },
     "2343": {
       "state": "Chattisgarh",
@@ -11933,7 +11933,7 @@
     "2387": {
       "state": "Chattisgarh",
       "district": "Kanker",
-      "block": "NA"
+      "block": "Charama"
     },
     "2388": {
       "state": "Chattisgarh",
@@ -12108,7 +12108,7 @@
     "2422": {
       "state": "Chattisgarh",
       "district": "Bilaspur(CGH)",
-      "block": "NA"
+      "block": "Dabhara"
     },
     "2423": {
       "state": "Chattisgarh",
@@ -12138,7 +12138,7 @@
     "2428": {
       "state": "Chattisgarh",
       "district": "Janjgir-champa",
-      "block": "NA"
+      "block": "Champa"
     },
     "2429": {
       "state": "Chattisgarh",
@@ -12218,7 +12218,7 @@
     "2444": {
       "state": "Chattisgarh",
       "district": "Raigarh",
-      "block": "NA"
+      "block": "Raigarh"
     },
     "2445": {
       "state": "Chattisgarh",
@@ -12238,7 +12238,7 @@
     "2448": {
       "state": "Chattisgarh",
       "district": "Jashpur",
-      "block": "NA"
+      "block": "Pathalgaon"
     },
     "2449": {
       "state": "Chattisgarh",
@@ -12263,7 +12263,7 @@
     "2453": {
       "state": "Chattisgarh",
       "district": "Surguja",
-      "block": "NA"
+      "block": "Ambikapur"
     },
     "2454": {
       "state": "Chattisgarh",
@@ -12283,7 +12283,7 @@
     "2457": {
       "state": "Chattisgarh",
       "district": "Koriya",
-      "block": "NA"
+      "block": "Baikunthapur"
     },
     "2458": {
       "state": "Chattisgarh",
@@ -12508,7 +12508,7 @@
     "2502": {
       "state": "Telangana",
       "district": "Medak",
-      "block": "NA"
+      "block": "Gujvail"
     },
     "2503": {
       "state": "Telangana",
@@ -12583,7 +12583,7 @@
     "2517": {
       "state": "Telangana",
       "district": "Nizamabad",
-      "block": "NA"
+      "block": "Dichpalle"
     },
     "2518": {
       "state": "Telangana",
@@ -12638,7 +12638,7 @@
     "2528": {
       "state": "Telangana",
       "district": "Adilabad",
-      "block": "NA"
+      "block": "Khanapur"
     },
     "2529": {
       "state": "Telangana",
@@ -12693,7 +12693,7 @@
     "2539": {
       "state": "Telangana",
       "district": "Karim Nagar",
-      "block": "NA"
+      "block": "Karimnagar"
     },
     "2540": {
       "state": "Telangana",
@@ -13073,7 +13073,7 @@
     "2615": {
       "state": "Telangana",
       "district": "Warangal",
-      "block": "NA"
+      "block": "Regonda"
     },
     "2616": {
       "state": "Telangana",
@@ -13383,7 +13383,7 @@
     "2677": {
       "state": "Telangana",
       "district": "Nalgonda",
-      "block": "NA"
+      "block": "Nalgonda"
     },
     "2678": {
       "state": "Telangana",
@@ -13453,7 +13453,7 @@
     "2691": {
       "state": "Telangana",
       "district": "Mahabub Nagar",
-      "block": "NA"
+      "block": "Mahbubnagar"
     },
     "2692": {
       "state": "Telangana",
@@ -14133,7 +14133,7 @@
     "2827": {
       "state": "Andhra Pradesh",
       "district": "Cuddapah",
-      "block": "NA"
+      "block": "Proddatur"
     },
     "2828": {
       "state": "Andhra Pradesh",
@@ -14468,7 +14468,7 @@
     "2894": {
       "state": "Andhra Pradesh",
       "district": "Kurnool",
-      "block": "NA"
+      "block": "Veldurthi"
     },
     "2895": {
       "state": "Andhra Pradesh",
@@ -14773,7 +14773,7 @@
     "2955": {
       "state": "Andhra Pradesh",
       "district": "Guntur",
-      "block": "NA"
+      "block": "Tenali"
     },
     "2956": {
       "state": "Andhra Pradesh",
@@ -15123,7 +15123,7 @@
     "3025": {
       "state": "Andhra Pradesh",
       "district": "Prakasam",
-      "block": "NA"
+      "block": "Chirala"
     },
     "3026": {
       "state": "Andhra Pradesh",
@@ -15488,7 +15488,7 @@
     "3098": {
       "state": "Andhra Pradesh",
       "district": "Visakhapatnam",
-      "block": "NA"
+      "block": "Anandapuram"
     },
     "3099": {
       "state": "Andhra Pradesh",
@@ -15778,7 +15778,7 @@
     "3156": {
       "state": "Andhra Pradesh",
       "district": "East Godavari",
-      "block": "NA"
+      "block": "Rajahmundry Rural"
     },
     "3157": {
       "state": "Andhra Pradesh",
@@ -16118,7 +16118,7 @@
     "3224": {
       "state": "Andhra Pradesh",
       "district": "West Godavari",
-      "block": "NA"
+      "block": "Penumantra (mdl)"
     },
     "3225": {
       "state": "Andhra Pradesh",
@@ -16503,7 +16503,7 @@
     "3301": {
       "state": "Andhra Pradesh",
       "district": "Vizianagaram",
-      "block": "NA"
+      "block": "Parvatipuram"
     },
     "3302": {
       "state": "Andhra Pradesh",
@@ -16578,7 +16578,7 @@
     "3316": {
       "state": "Karnataka",
       "district": "Bangalore",
-      "block": "NA"
+      "block": "Bangalore North"
     },
     "3317": {
       "state": "Karnataka",
@@ -16648,7 +16648,7 @@
     "3330": {
       "state": "Karnataka",
       "district": "Kolar",
-      "block": "NA"
+      "block": "Gauribidanur"
     },
     "3331": {
       "state": "Karnataka",
@@ -17183,7 +17183,7 @@
     "3437": {
       "state": "Karnataka",
       "district": "Davangere",
-      "block": "NA"
+      "block": "Davanagere"
     },
     "3438": {
       "state": "Karnataka",
@@ -17203,7 +17203,7 @@
     "3441": {
       "state": "Karnataka",
       "district": "Chitradurga",
-      "block": "NA"
+      "block": "Davanagere"
     },
     "3442": {
       "state": "Karnataka",
@@ -17263,7 +17263,7 @@
     "3453": {
       "state": "Karnataka",
       "district": "Dharwad",
-      "block": "NA"
+      "block": "Dharwad"
     },
     "3454": {
       "state": "Karnataka",
@@ -17378,7 +17378,7 @@
     "3476": {
       "state": "Karnataka",
       "district": "Uttara Kannada",
-      "block": "NA"
+      "block": "Honavar"
     },
     "3477": {
       "state": "Karnataka",
@@ -17388,7 +17388,7 @@
     "3478": {
       "state": "Karnataka",
       "district": "Gadag",
-      "block": "NA"
+      "block": "Ron"
     },
     "3479": {
       "state": "Karnataka",
@@ -17428,7 +17428,7 @@
     "3486": {
       "state": "Karnataka",
       "district": "Bellary",
-      "block": "NA"
+      "block": "Bellary"
     },
     "3487": {
       "state": "Karnataka",
@@ -17673,7 +17673,7 @@
     "3535": {
       "state": "Karnataka",
       "district": "Bagalkot",
-      "block": "NA"
+      "block": "Bagalkot"
     },
     "3536": {
       "state": "Karnataka",
@@ -17748,7 +17748,7 @@
     "3550": {
       "state": "Karnataka",
       "district": "Belgaum",
-      "block": "NA"
+      "block": "Ramdurg"
     },
     "3551": {
       "state": "Karnataka",
@@ -17793,7 +17793,7 @@
     "3559": {
       "state": "Tamil Nadu",
       "district": "Chennai",
-      "block": "NA"
+      "block": "Egmore Nungambakka"
     },
     "3560": {
       "state": "Tamil Nadu",
@@ -17823,7 +17823,7 @@
     "3565": {
       "state": "Tamil Nadu",
       "district": "Kanchipuram",
-      "block": "NA"
+      "block": "Sriperumbudur"
     },
     "3566": {
       "state": "Tamil Nadu",
@@ -17853,7 +17853,7 @@
     "3571": {
       "state": "Tamil Nadu",
       "district": "Tiruvallur",
-      "block": "NA"
+      "block": "Pallipat"
     },
     "3572": {
       "state": "Tamil Nadu",
@@ -17988,7 +17988,7 @@
     "3598": {
       "state": "Tamil Nadu",
       "district": "Tiruvannamalai",
-      "block": "NA"
+      "block": "Vandavasi"
     },
     "3599": {
       "state": "Tamil Nadu",
@@ -18118,7 +18118,7 @@
     "3624": {
       "state": "Tamil Nadu",
       "district": "Villupuram",
-      "block": "NA"
+      "block": "Pondicherry"
     },
     "3625": {
       "state": "Tamil Nadu",
@@ -18128,7 +18128,7 @@
     "3626": {
       "state": "Tamil Nadu",
       "district": "Cuddalore",
-      "block": "NA"
+      "block": "Chidambaram North"
     },
     "3627": {
       "state": "Tamil Nadu",
@@ -18248,7 +18248,7 @@
     "3650": {
       "state": "Tamil Nadu",
       "district": "Tiruvarur",
-      "block": "NA"
+      "block": "Tiruvarur"
     },
     "3651": {
       "state": "Tamil Nadu",
@@ -18288,7 +18288,7 @@
     "3658": {
       "state": "Tamil Nadu",
       "district": "Nagapattinam",
-      "block": "NA"
+      "block": "Nagapattinam"
     },
     "3659": {
       "state": "Tamil Nadu",
@@ -18538,7 +18538,7 @@
     "3708": {
       "state": "Tamil Nadu",
       "district": "Ariyalur",
-      "block": "NA"
+      "block": "Sendurai"
     },
     "3709": {
       "state": "Tamil Nadu",
@@ -18548,7 +18548,7 @@
     "3710": {
       "state": "Tamil Nadu",
       "district": "Pudukkottai",
-      "block": "NA"
+      "block": "Pudukkottai"
     },
     "3711": {
       "state": "Tamil Nadu",
@@ -18608,7 +18608,7 @@
     "3722": {
       "state": "Tamil Nadu",
       "district": "Ramanathapuram",
-      "block": "NA"
+      "block": "Ramanathapuram"
     },
     "3723": {
       "state": "Tamil Nadu",
@@ -18658,7 +18658,7 @@
     "3732": {
       "state": "Tamil Nadu",
       "district": "Dindigul",
-      "block": "NA"
+      "block": "Dindigul"
     },
     "3733": {
       "state": "Tamil Nadu",
@@ -18673,7 +18673,7 @@
     "3735": {
       "state": "Tamil Nadu",
       "district": "Madurai",
-      "block": "NA"
+      "block": "Madurai North"
     },
     "3736": {
       "state": "Tamil Nadu",
@@ -18743,7 +18743,7 @@
     "3749": {
       "state": "Tamil Nadu",
       "district": "Virudhunagar",
-      "block": "NA"
+      "block": "Aruppukkottai"
     },
     "3750": {
       "state": "Tamil Nadu",
@@ -18873,7 +18873,7 @@
     "3775": {
       "state": "Tamil Nadu",
       "district": "Tuticorin",
-      "block": "NA"
+      "block": "Thoothukkudi"
     },
     "3776": {
       "state": "Tamil Nadu",
@@ -18953,7 +18953,7 @@
     "3791": {
       "state": "Tamil Nadu",
       "district": "Kanyakumari",
-      "block": "NA"
+      "block": "Vilavancode"
     },
     "3792": {
       "state": "Tamil Nadu",
@@ -19128,7 +19128,7 @@
     "3826": {
       "state": "Tamil Nadu",
       "district": "Krishnagiri",
-      "block": "NA"
+      "block": "Hosur"
     },
     "3827": {
       "state": "Tamil Nadu",
@@ -19153,7 +19153,7 @@
     "3831": {
       "state": "Tamil Nadu",
       "district": "Dharmapuri",
-      "block": "NA"
+      "block": "Harur"
     },
     "3832": {
       "state": "Tamil Nadu",
@@ -19298,7 +19298,7 @@
     "3860": {
       "state": "Tamil Nadu",
       "district": "Erode",
-      "block": "NA"
+      "block": "Namakkal"
     },
     "3861": {
       "state": "Tamil Nadu",
@@ -19408,7 +19408,7 @@
     "3882": {
       "state": "Tamil Nadu",
       "district": "Coimbatore",
-      "block": "NA"
+      "block": "Avanashi"
     },
     "3883": {
       "state": "Tamil Nadu",
@@ -19498,7 +19498,7 @@
     "3900": {
       "state": "Kerala",
       "district": "Kannur",
-      "block": "NA"
+      "block": "Thalassery"
     },
     "3901": {
       "state": "Kerala",
@@ -19523,7 +19523,7 @@
     "3905": {
       "state": "Kerala",
       "district": "Kozhikode",
-      "block": "NA"
+      "block": "Kozhikode"
     },
     "3906": {
       "state": "Kerala",
@@ -19653,7 +19653,7 @@
     "3931": {
       "state": "Kerala",
       "district": "Palakkad",
-      "block": "NA"
+      "block": "Ottappalam"
     },
     "3932": {
       "state": "Kerala",
@@ -19683,7 +19683,7 @@
     "3937": {
       "state": "Kerala",
       "district": "Thrissur",
-      "block": "NA"
+      "block": "Thrissur"
     },
     "3938": {
       "state": "Kerala",
@@ -20103,7 +20103,7 @@
     "4021": {
       "state": "West Bengal",
       "district": "South 24 Parganas",
-      "block": "NA"
+      "block": "Sagar"
     },
     "4022": {
       "state": "West Bengal",
@@ -20123,7 +20123,7 @@
     "4025": {
       "state": "West Bengal",
       "district": "Kolkata",
-      "block": "NA"
+      "block": "Kolkata"
     },
     "4026": {
       "state": "West Bengal",
@@ -20148,7 +20148,7 @@
     "4030": {
       "state": "West Bengal",
       "district": "North 24 Parganas",
-      "block": "NA"
+      "block": "Barrackpur - I"
     },
     "4031": {
       "state": "West Bengal",
@@ -20348,7 +20348,7 @@
     "4070": {
       "state": "West Bengal",
       "district": "Hooghly",
-      "block": "NA"
+      "block": "Dasghara"
     },
     "4071": {
       "state": "West Bengal",
@@ -20458,7 +20458,7 @@
     "4092": {
       "state": "West Bengal",
       "district": "Bardhaman",
-      "block": "NA"
+      "block": "Burdwan - II"
     },
     "4093": {
       "state": "West Bengal",
@@ -21303,7 +21303,7 @@
     "4261": {
       "state": "West Bengal",
       "district": "Birbhum",
-      "block": "NA"
+      "block": "Birbhum"
     },
     "4262": {
       "state": "West Bengal",
@@ -21663,7 +21663,7 @@
     "4333": {
       "state": "West Bengal",
       "district": "Cooch Behar",
-      "block": "NA"
+      "block": "Dinhata"
     },
     "4334": {
       "state": "West Bengal",
@@ -21828,7 +21828,7 @@
     "4366": {
       "state": "West Bengal",
       "district": "Nadia",
-      "block": "NA"
+      "block": "Hanskhali"
     },
     "4367": {
       "state": "West Bengal",
@@ -21973,7 +21973,7 @@
     "4395": {
       "state": "West Bengal",
       "district": "Murshidabad",
-      "block": "NA"
+      "block": "Beldanga - II"
     },
     "4396": {
       "state": "West Bengal",
@@ -22553,7 +22553,7 @@
     "4511": {
       "state": "Odisha",
       "district": "Cuttack",
-      "block": "NA"
+      "block": "Athagarh"
     },
     "4512": {
       "state": "Odisha",
@@ -23968,7 +23968,7 @@
     "4794": {
       "state": "Assam",
       "district": "Kamrup",
-      "block": "NA"
+      "block": "Sanekuchi"
     },
     "4795": {
       "state": "Assam",
@@ -24083,7 +24083,7 @@
     "4817": {
       "state": "Assam",
       "district": "Barpeta",
-      "block": "NA"
+      "block": "Barkhetri"
     },
     "4818": {
       "state": "Assam",
@@ -24103,7 +24103,7 @@
     "4821": {
       "state": "Assam",
       "district": "Nalbari",
-      "block": "NA"
+      "block": "Rampur"
     },
     "4822": {
       "state": "Assam",
@@ -24258,7 +24258,7 @@
     "4852": {
       "state": "Assam",
       "district": "Nagaon",
-      "block": "NA"
+      "block": "Nagaon"
     },
     "4853": {
       "state": "Assam",
@@ -24388,7 +24388,7 @@
     "4878": {
       "state": "Assam",
       "district": "Dhubri",
-      "block": "NA"
+      "block": "Agomoni"
     },
     "4879": {
       "state": "Assam",
@@ -25103,7 +25103,7 @@
     "5021": {
       "state": "Assam",
       "district": "Cachar",
-      "block": "NA"
+      "block": "Silchar"
     },
     "5022": {
       "state": "Assam",
@@ -25128,7 +25128,7 @@
     "5026": {
       "state": "Assam",
       "district": "Karimganj",
-      "block": "NA"
+      "block": "Karimanj"
     },
     "5027": {
       "state": "Assam",
@@ -25623,7 +25623,7 @@
     "5125": {
       "state": "Meghalaya",
       "district": "South Garo Hills",
-      "block": "NA"
+      "block": "Rongra"
     },
     "5126": {
       "state": "Meghalaya",
@@ -26023,7 +26023,7 @@
     "5205": {
       "state": "Tripura",
       "district": "West Tripura",
-      "block": "NA"
+      "block": "Sadar"
     },
     "5206": {
       "state": "Tripura",
@@ -26038,7 +26038,7 @@
     "5208": {
       "state": "Tripura",
       "district": "South Tripura",
-      "block": "NA"
+      "block": "Udaipur"
     },
     "5209": {
       "state": "Tripura",
@@ -26213,7 +26213,7 @@
     "5243": {
       "state": "Tripura",
       "district": "North Tripura",
-      "block": "NA"
+      "block": "Panisagar"
     },
     "5244": {
       "state": "Tripura",
@@ -26348,7 +26348,7 @@
     "5270": {
       "state": "Bihar",
       "district": "Patna",
-      "block": "NA"
+      "block": "Patna City"
     },
     "5271": {
       "state": "Bihar",
@@ -26393,7 +26393,7 @@
     "5279": {
       "state": "Bihar",
       "district": "Nalanda",
-      "block": "NA"
+      "block": "Islampur"
     },
     "5280": {
       "state": "Bihar",
@@ -26728,7 +26728,7 @@
     "5346": {
       "state": "Bihar",
       "district": "Nawada",
-      "block": "NA"
+      "block": "Akbarpur"
     },
     "5347": {
       "state": "Bihar",
@@ -26753,7 +26753,7 @@
     "5351": {
       "state": "Bihar",
       "district": "Gaya",
-      "block": "NA"
+      "block": "Akbarpur"
     },
     "5352": {
       "state": "Bihar",
@@ -26968,7 +26968,7 @@
     "5394": {
       "state": "Jharkhand",
       "district": "Dumka",
-      "block": "NA"
+      "block": "Ramgarah"
     },
     "5395": {
       "state": "Jharkhand",
@@ -27018,7 +27018,7 @@
     "5404": {
       "state": "Jharkhand",
       "district": "Deoghar",
-      "block": "NA"
+      "block": "Deoghar"
     },
     "5405": {
       "state": "Jharkhand",
@@ -27098,7 +27098,7 @@
     "5420": {
       "state": "Jharkhand",
       "district": "Giridh",
-      "block": "NA"
+      "block": "Giridih"
     },
     "5421": {
       "state": "Jharkhand",
@@ -27143,7 +27143,7 @@
     "5429": {
       "state": "Jharkhand",
       "district": "Jamtara",
-      "block": "NA"
+      "block": "Jamtara"
     },
     "5430": {
       "state": "Jharkhand",
@@ -27708,7 +27708,7 @@
     "5542": {
       "state": "Jharkhand",
       "district": "Bokaro",
-      "block": "NA"
+      "block": "Bokaro"
     },
     "5543": {
       "state": "Jharkhand",
@@ -27723,7 +27723,7 @@
     "5545": {
       "state": "Jharkhand",
       "district": "Ramgarh",
-      "block": "NA"
+      "block": "Ramgarh"
     },
     "5546": {
       "state": "Jharkhand",
@@ -27908,7 +27908,7 @@
     "5582": {
       "state": "Jharkhand",
       "district": "Seraikela-kharsawan",
-      "block": "NA"
+      "block": "East Singhbhum"
     },
     "5583": {
       "state": "Jharkhand",
@@ -28003,7 +28003,7 @@
     "5601": {
       "state": "Jharkhand",
       "district": "Ranchi",
-      "block": "NA"
+      "block": "Bero"
     },
     "5602": {
       "state": "Jharkhand",
@@ -28198,7 +28198,7 @@
     "5640": {
       "state": "Bihar",
       "district": "Muzaffarpur",
-      "block": "NA"
+      "block": "Muzaffarpur"
     },
     "5641": {
       "state": "Bihar",
@@ -28288,7 +28288,7 @@
     "5658": {
       "state": "Bihar",
       "district": "Sitamarhi",
-      "block": "NA"
+      "block": "Bairgania"
     },
     "5659": {
       "state": "Bihar",
@@ -28528,7 +28528,7 @@
     "5706": {
       "state": "Bihar",
       "district": "Darbhanga",
-      "block": "NA"
+      "block": "Darbhanga"
     },
     "5707": {
       "state": "Bihar",
@@ -28663,7 +28663,7 @@
     "5733": {
       "state": "Bihar",
       "district": "Supaul",
-      "block": "NA"
+      "block": "Saraigarh"
     },
     "5734": {
       "state": "Bihar",
@@ -28713,7 +28713,7 @@
     "5743": {
       "state": "Bihar",
       "district": "Madhepura",
-      "block": "NA"
+      "block": "Madhepura"
     },
     "5744": {
       "state": "Bihar",
@@ -28723,7 +28723,7 @@
     "5745": {
       "state": "Bihar",
       "district": "Saharsa",
-      "block": "NA"
+      "block": "Satar Kataiya"
     },
     "5746": {
       "state": "Bihar",
@@ -28848,7 +28848,7 @@
     "5770": {
       "state": "Bihar",
       "district": "Purnia",
-      "block": "NA"
+      "block": "Purnea"
     },
     "5771": {
       "state": "Bihar",
