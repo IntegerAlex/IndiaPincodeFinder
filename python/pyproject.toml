@@ -11,9 +11,9 @@ authors = [
 ]
 description = "IndiaPincodeFinder is a Python module that helps you find detailed Indian address information by using a valid 6-digit PIN code. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
-    "cachetools"
+    "cachetools>=7.0.1"
 ]
 license = "GPL-3.0-only"
 classifiers = [

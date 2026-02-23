@@ -1,12 +1,12 @@
 import json
 import os
-from cachetools import Cache
+from cachetools import LRUCache
 
-cache = Cache(maxsize=1_000_000)
+cache = LRUCache(maxsize=1_000_000)
 
 def load_pincode_data(json_path=None):
     """
-    Load pincode data from a JSON file and populate the persistent cache.
+    Load pincode data from a JSON file and populate an in-memory cache.
     
     If no path is provided, loads from the default bundled JSON file. Supports both a normalized format (with 'locations' and 'pincodes' keys) and the original flat mapping format. Each pincode is stored as an integer key in the cache with its associated location or address information.
     
