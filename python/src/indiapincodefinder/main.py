@@ -1,8 +1,8 @@
 import json
 import os
-from diskcache import Cache
+from cachetools import Cache
 
-cache = Cache(directory=os.path.expanduser('~/.pincodeinfo_cache'))
+cache = Cache(maxsize=1_000_000)
 
 def load_pincode_data(json_path=None):
     """
