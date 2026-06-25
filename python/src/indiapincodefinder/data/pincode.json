@@ -28869,6 +28869,1171 @@
       "state": "Bihar",
       "district": "Kishanganj",
       "block": "Kishanganj"
+    },
+    "5775": {
+      "state": "Delhi",
+      "district": "North West",
+      "block": "Delhi North"
+    },
+    "5776": {
+      "state": "Delhi",
+      "district": "New Delhi",
+      "block": "New Delhi Central"
+    },
+    "5777": {
+      "state": "Delhi",
+      "district": "North",
+      "block": "Delhi Gpo"
+    },
+    "5778": {
+      "state": "Delhi",
+      "district": "South East",
+      "block": "New Delhi South"
+    },
+    "5779": {
+      "state": "Delhi",
+      "district": "South",
+      "block": "New Delhi South"
+    },
+    "5780": {
+      "state": "Delhi",
+      "district": "Shahdara",
+      "block": "Delhi East"
+    },
+    "5781": {
+      "state": "Haryana",
+      "district": "Gurugram",
+      "block": "Gurgaon"
+    },
+    "5782": {
+      "state": "Haryana",
+      "district": "Mahendragarh",
+      "block": "Bhiwani"
+    },
+    "5783": {
+      "state": "Haryana",
+      "district": "Rewari",
+      "block": "Gurgaon"
+    },
+    "5784": {
+      "state": "Haryana",
+      "district": "Hisar",
+      "block": "Hissar"
+    },
+    "5785": {
+      "state": "Haryana",
+      "district": "Charki Dadri",
+      "block": "Bhiwani"
+    },
+    "5786": {
+      "state": "Haryana",
+      "district": "Sonipat",
+      "block": "Sonepat"
+    },
+    "5787": {
+      "state": "Haryana",
+      "district": "Panchkula",
+      "block": "Ambala"
+    },
+    "5788": {
+      "state": "Haryana",
+      "district": "Kurukshetra",
+      "block": "Kurukshetra"
+    },
+    "5789": {
+      "state": "Punjab",
+      "district": "Rupnagar",
+      "block": "Chandigarh"
+    },
+    "5790": {
+      "state": "Punjab",
+      "district": "Fatehgarh Sahib",
+      "block": "Patiala"
+    },
+    "5791": {
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "block": "Ludhiana City"
+    },
+    "5792": {
+      "state": "Punjab",
+      "district": "Bathinda",
+      "block": "Bhatinda"
+    },
+    "5793": {
+      "state": "Punjab",
+      "district": "Fazilka",
+      "block": "Ferozpur"
+    },
+    "5794": {
+      "state": "Himachal Pradesh",
+      "district": "Sirmaur",
+      "block": "Solan"
+    },
+    "5795": {
+      "state": "Jammu And Kashmir",
+      "district": "Jammu",
+      "block": "Jammu"
+    },
+    "5796": {
+      "state": "Jammu And Kashmir",
+      "district": "Doda",
+      "block": "Udhampur"
+    },
+    "5797": {
+      "state": "Jammu And Kashmir",
+      "district": "Udhampur",
+      "block": "Udhampur"
+    },
+    "5798": {
+      "state": "Jammu And Kashmir",
+      "district": "Kishtwar",
+      "block": "Udhampur"
+    },
+    "5799": {
+      "state": "Jammu And Kashmir",
+      "district": "Kathua",
+      "block": "Jammu"
+    },
+    "5800": {
+      "state": "Jammu And Kashmir",
+      "district": "Rajouri",
+      "block": "Rajouri"
+    },
+    "5801": {
+      "state": "Jammu And Kashmir",
+      "district": "Srinagar",
+      "block": "Srinagar"
+    },
+    "5802": {
+      "state": "Jammu And Kashmir",
+      "district": "Baramulla",
+      "block": "Baramulla"
+    },
+    "5803": {
+      "state": "Jammu And Kashmir",
+      "district": "Pulwama",
+      "block": "Srinagar"
+    },
+    "5804": {
+      "state": "Jammu And Kashmir",
+      "district": "Bandipora",
+      "block": "Baramulla"
+    },
+    "5805": {
+      "state": "Ladakh",
+      "district": "Leh Ladakh",
+      "block": "Leh"
+    },
+    "5806": {
+      "state": "Ladakh",
+      "district": "Kargil",
+      "block": "Leh"
+    },
+    "5807": {
+      "state": "Uttar Pradesh",
+      "district": "Hapur",
+      "block": "Ghaziabad"
+    },
+    "5808": {
+      "state": "Uttar Pradesh",
+      "district": "Gautam Buddha Nagar",
+      "block": "Gautam Buddha Nagar Office"
+    },
+    "5809": {
+      "state": "Uttar Pradesh",
+      "district": "Bulandshahr",
+      "block": "Bulandshahar"
+    },
+    "5810": {
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "block": "Kanpur Ho"
+    },
+    "5811": {
+      "state": "Uttar Pradesh",
+      "district": "Unnao",
+      "block": "Kanpur Moffusil"
+    },
+    "5812": {
+      "state": "Uttar Pradesh",
+      "district": "Prayagraj",
+      "block": "Prayagraj"
+    },
+    "5813": {
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "block": "Varanasi East"
+    },
+    "5814": {
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "block": "Varanasi West"
+    },
+    "5815": {
+      "state": "Uttar Pradesh",
+      "district": "Ambedkar Nagar",
+      "block": "Faizabad"
+    },
+    "5816": {
+      "state": "Uttar Pradesh",
+      "district": "Chandauli",
+      "block": "Varanasi East"
+    },
+    "5817": {
+      "state": "Uttarakhand",
+      "district": "Udam Singh Nagar",
+      "block": "Nainital"
+    },
+    "5818": {
+      "state": "Uttarakhand",
+      "district": "Haridwar",
+      "block": "Dehradun"
+    },
+    "5819": {
+      "state": "Uttarakhand",
+      "district": "Uttar Kashi",
+      "block": "Tehri"
+    },
+    "5820": {
+      "state": "Uttar Pradesh",
+      "district": "Pilibhit",
+      "block": "Bareilly"
+    },
+    "5821": {
+      "state": "Uttar Pradesh",
+      "district": "Maharajganj",
+      "block": "Gorakhpur"
+    },
+    "5822": {
+      "state": "Uttar Pradesh",
+      "district": "Kushi Nagar",
+      "block": "Deoria"
+    },
+    "5823": {
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "block": "Jaipur City"
+    },
+    "5824": {
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "block": "Jaipur Moffusil"
+    },
+    "5825": {
+      "state": "Rajasthan",
+      "district": "Pali",
+      "block": "Pali"
+    },
+    "5826": {
+      "state": "Rajasthan",
+      "district": "Pratapgarh",
+      "block": "Chittorgarh"
+    },
+    "5827": {
+      "state": "Rajasthan",
+      "district": "Udaipur",
+      "block": "Udaipur"
+    },
+    "5828": {
+      "state": "Rajasthan",
+      "district": "Bundi",
+      "block": "Tonk"
+    },
+    "5829": {
+      "state": "Rajasthan",
+      "district": "Baran",
+      "block": "Jhalawar"
+    },
+    "5830": {
+      "state": "Rajasthan",
+      "district": "Jhunjhunu",
+      "block": "Jhunjhunu"
+    },
+    "5831": {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "block": "Bikaner"
+    },
+    "5832": {
+      "state": "Rajasthan",
+      "district": "Hanumangarh",
+      "block": "Sriganganagar"
+    },
+    "5833": {
+      "state": "Gujarat",
+      "district": "Morbi",
+      "block": "Rajkot"
+    },
+    "5834": {
+      "state": "Gujarat",
+      "district": "Surendranagar",
+      "block": "Surendranagar"
+    },
+    "5835": {
+      "state": "Gujarat",
+      "district": "Kachchh",
+      "block": "Kutch"
+    },
+    "5836": {
+      "state": "Gujarat",
+      "district": "Ahmadabad",
+      "block": "Ahmedabad City"
+    },
+    "5837": {
+      "state": "Gujarat",
+      "district": "Gandhinagar",
+      "block": "Gandhinagar"
+    },
+    "5838": {
+      "state": "Gujarat",
+      "district": "Ahmadabad",
+      "block": "Gandhinagar"
+    },
+    "5839": {
+      "state": "Gujarat",
+      "district": "Sabar Kantha",
+      "block": "Sabarkantha"
+    },
+    "5840": {
+      "state": "Rajasthan",
+      "district": "Nagaur",
+      "block": "Mahesana"
+    },
+    "5841": {
+      "state": "Gujarat",
+      "district": "Banas Kantha",
+      "block": "Banaskantha"
+    },
+    "5842": {
+      "state": "Gujarat",
+      "district": "Dohad",
+      "block": "Panchmahals"
+    },
+    "5843": {
+      "state": "Gujarat",
+      "district": "Vadodara",
+      "block": "Vadodara West"
+    },
+    "5844": {
+      "state": "Gujarat",
+      "district": "Tapi",
+      "block": "Bardoli"
+    },
+    "5845": {
+      "state": "Maharashtra",
+      "district": "Palghar",
+      "block": "Palghar"
+    },
+    "5846": {
+      "state": "Goa",
+      "district": "North Goa",
+      "block": "Goa"
+    },
+    "5847": {
+      "state": "Maharashtra",
+      "district": "Raigad",
+      "block": "Navi Mumbai"
+    },
+    "5848": {
+      "state": "Maharashtra",
+      "district": "Pune",
+      "block": "Pune Moffusil"
+    },
+    "5849": {
+      "state": "Maharashtra",
+      "district": "Pune",
+      "block": "Pune City West"
+    },
+    "5850": {
+      "state": "Maharashtra",
+      "district": "Pune",
+      "block": "Pune City East"
+    },
+    "5851": {
+      "state": "Maharashtra",
+      "district": "Sangli",
+      "block": "Sangli Division"
+    },
+    "5852": {
+      "state": "Maharashtra",
+      "district": "Kolhapur",
+      "block": "Kolhapur"
+    },
+    "5853": {
+      "state": "Maharashtra",
+      "district": "Jalgaon",
+      "block": "Bhusaval"
+    },
+    "5854": {
+      "state": "Maharashtra",
+      "district": "Aurangabad",
+      "block": "Chhatrapati Sambhajinagar"
+    },
+    "5855": {
+      "state": "Maharashtra",
+      "district": "Hingoli",
+      "block": "Pharbhani"
+    },
+    "5856": {
+      "state": "Maharashtra",
+      "district": "Nagpur",
+      "block": "Nagpur City"
+    },
+    "5857": {
+      "state": "Maharashtra",
+      "district": "Gadchiroli",
+      "block": "Chandrapur"
+    },
+    "5858": {
+      "state": "Maharashtra",
+      "district": "Amravati",
+      "block": "Amaravati"
+    },
+    "5859": {
+      "state": "Maharashtra",
+      "district": "Yavatmal",
+      "block": "Yeotmal"
+    },
+    "5860": {
+      "state": "Madhya Pradesh",
+      "district": "Khargone",
+      "block": "Khandwa"
+    },
+    "5861": {
+      "state": "Madhya Pradesh",
+      "district": "Indore",
+      "block": "Indore Moffusil"
+    },
+    "5862": {
+      "state": "Madhya Pradesh",
+      "district": "Harda",
+      "block": "Hoshangabad"
+    },
+    "5863": {
+      "state": "Madhya Pradesh",
+      "district": "Raisen",
+      "block": "Vidisha"
+    },
+    "5864": {
+      "state": "Madhya Pradesh",
+      "district": "Damoh",
+      "block": "Sagar"
+    },
+    "5865": {
+      "state": "Madhya Pradesh",
+      "district": "Ashoknagar",
+      "block": "Guna"
+    },
+    "5866": {
+      "state": "Madhya Pradesh",
+      "district": "Bhind",
+      "block": "Morena"
+    },
+    "5867": {
+      "state": "Madhya Pradesh",
+      "district": "Dindori",
+      "block": "Mandla"
+    },
+    "5868": {
+      "state": "Madhya Pradesh",
+      "district": "Anuppur",
+      "block": "Shahdol"
+    },
+    "5869": {
+      "state": "Madhya Pradesh",
+      "district": "Satna",
+      "block": "Satna"
+    },
+    "5870": {
+      "state": "Madhya Pradesh",
+      "district": "Sidhi",
+      "block": "Rewa"
+    },
+    "5871": {
+      "state": "Chhattisgarh",
+      "district": "Durg",
+      "block": "Durg"
+    },
+    "5872": {
+      "state": "Chhattisgarh",
+      "district": "Balod",
+      "block": "Durg"
+    },
+    "5873": {
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "block": "Rajnandgaon"
+    },
+    "5874": {
+      "state": "Chhattisgarh",
+      "district": "Kabirdham",
+      "block": "Rajnandgaon"
+    },
+    "5875": {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "block": "Raipur"
+    },
+    "5876": {
+      "state": "Chhattisgarh",
+      "district": "Kondagaon",
+      "block": "Bastar"
+    },
+    "5877": {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "block": "Bastar"
+    },
+    "5878": {
+      "state": "Chhattisgarh",
+      "district": "Narayanpur",
+      "block": "Bastar"
+    },
+    "5879": {
+      "state": "Chhattisgarh",
+      "district": "Korba",
+      "block": "Bilaspur"
+    },
+    "5880": {
+      "state": "Chhattisgarh",
+      "district": "Janjgir-Champa",
+      "block": "Bilaspur"
+    },
+    "5881": {
+      "state": "Chhattisgarh",
+      "district": "Korea",
+      "block": "Surguja Division"
+    },
+    "5882": {
+      "state": "Telangana",
+      "district": "Ranga Reddy",
+      "block": "Hyderabad South East"
+    },
+    "5883": {
+      "state": "Telangana",
+      "district": "Medchal Malkajgiri",
+      "block": "Secunderabad"
+    },
+    "5884": {
+      "state": "Telangana",
+      "district": "Ranga Reddy",
+      "block": "Hyderabad City"
+    },
+    "5885": {
+      "state": "Telangana",
+      "district": "Hyderabad",
+      "block": "Hyderabad Gpo"
+    },
+    "5886": {
+      "state": "Telangana",
+      "district": "Hyderabad",
+      "block": "Hyderabad City"
+    },
+    "5887": {
+      "state": "Telangana",
+      "district": "Hyderabad",
+      "block": "Hyderabad South East"
+    },
+    "5888": {
+      "state": "Telangana",
+      "district": "Medchal Malkajgiri",
+      "block": "Hyderabad City"
+    },
+    "5889": {
+      "state": "Telangana",
+      "district": "Sangareddy",
+      "block": "Sangareddy"
+    },
+    "5890": {
+      "state": "Telangana",
+      "district": "Siddipet",
+      "block": "Medak"
+    },
+    "5891": {
+      "state": "Telangana",
+      "district": "Karimnagar",
+      "block": "Karimnagar"
+    },
+    "5892": {
+      "state": "Telangana",
+      "district": "Peddapalli",
+      "block": "Peddapalli"
+    },
+    "5893": {
+      "state": "Telangana",
+      "district": "Mahabubabad",
+      "block": "Warangal"
+    },
+    "5894": {
+      "state": "Telangana",
+      "district": "Jangoan",
+      "block": "Hanamkonda"
+    },
+    "5895": {
+      "state": "Telangana",
+      "district": "Bhadradri Kothagudem",
+      "block": "Khammam"
+    },
+    "5896": {
+      "state": "Telangana",
+      "district": "Suryapet",
+      "block": "Suryapet"
+    },
+    "5897": {
+      "state": "Telangana",
+      "district": "Ranga Reddy",
+      "block": "Wanaparthy"
+    },
+    "5898": {
+      "state": "Andhra Pradesh",
+      "district": "Anantapur",
+      "block": "Anantapur"
+    },
+    "5899": {
+      "state": "Andhra Pradesh",
+      "district": "Sri Sathya Sai",
+      "block": "Hindupur"
+    },
+    "5900": {
+      "state": "Andhra Pradesh",
+      "district": "Y.S.R.",
+      "block": "Cuddapah"
+    },
+    "5901": {
+      "state": "Andhra Pradesh",
+      "district": "Tirupati",
+      "block": "Tirupati"
+    },
+    "5902": {
+      "state": "Andhra Pradesh",
+      "district": "Chittoor",
+      "block": "Tirupati"
+    },
+    "5903": {
+      "state": "Andhra Pradesh",
+      "district": "Ntr",
+      "block": "Vijayawada"
+    },
+    "5904": {
+      "state": "Andhra Pradesh",
+      "district": "Krishna",
+      "block": "Vijayawada"
+    },
+    "5905": {
+      "state": "Andhra Pradesh",
+      "district": "Prakasam",
+      "block": "Prakasam"
+    },
+    "5906": {
+      "state": "Andhra Pradesh",
+      "district": "Spsr Nellore",
+      "block": "Nellore"
+    },
+    "5907": {
+      "state": "Andhra Pradesh",
+      "district": "Spsr Nellore",
+      "block": "Gudur"
+    },
+    "5908": {
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatanam",
+      "block": "Visakhapatnam"
+    },
+    "5909": {
+      "state": "Andhra Pradesh",
+      "district": "East Godavari",
+      "block": "Rajahmundry"
+    },
+    "5910": {
+      "state": "Andhra Pradesh",
+      "district": "Konaseema",
+      "block": "Amalapuram"
+    },
+    "5911": {
+      "state": "Andhra Pradesh",
+      "district": "Alluri Sitharama Raju",
+      "block": "Rajahmundry"
+    },
+    "5912": {
+      "state": "Andhra Pradesh",
+      "district": "Kakinada",
+      "block": "Kakinada"
+    },
+    "5913": {
+      "state": "Andhra Pradesh",
+      "district": "Eluru",
+      "block": "Eluru"
+    },
+    "5914": {
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "block": "Bengaluru South"
+    },
+    "5915": {
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "block": "Bengaluru East"
+    },
+    "5916": {
+      "state": "Karnataka",
+      "district": "Bengaluru Rural",
+      "block": "Bengaluru East"
+    },
+    "5917": {
+      "state": "Karnataka",
+      "district": "Bengaluru Rural",
+      "block": "Channapatna"
+    },
+    "5918": {
+      "state": "Karnataka",
+      "district": "Ramanagara",
+      "block": "Bengaluru South"
+    },
+    "5919": {
+      "state": "Karnataka",
+      "district": "Mysuru",
+      "block": "Mysuru"
+    },
+    "5920": {
+      "state": "Karnataka",
+      "district": "Kodagu",
+      "block": "Kodagu"
+    },
+    "5921": {
+      "state": "Karnataka",
+      "district": "Dakshina Kannada",
+      "block": "Mangaluru"
+    },
+    "5922": {
+      "state": "Karnataka",
+      "district": "Davangere",
+      "block": "Davanagere Division"
+    },
+    "5923": {
+      "state": "Karnataka",
+      "district": "Ballari",
+      "block": "Ballari"
+    },
+    "5924": {
+      "state": "Karnataka",
+      "district": "Koppal",
+      "block": "Koppal Division"
+    },
+    "5925": {
+      "state": "Karnataka",
+      "district": "Kalaburagi",
+      "block": "Kalaburagi"
+    },
+    "5926": {
+      "state": "Karnataka",
+      "district": "Vijayapura",
+      "block": "Vijayapura"
+    },
+    "5927": {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "block": "Tambaram"
+    },
+    "5928": {
+      "state": "Tamil Nadu",
+      "district": "Thiruvallur",
+      "block": "Tambaram"
+    },
+    "5929": {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "block": "Chengalpattu"
+    },
+    "5930": {
+      "state": "Tamil Nadu",
+      "district": "Thiruvarur",
+      "block": "Nagapattinam"
+    },
+    "5931": {
+      "state": "Tamil Nadu",
+      "district": "Ariyalur",
+      "block": "Tiruchirapalli"
+    },
+    "5932": {
+      "state": "Kerala",
+      "district": "Kozhikode",
+      "block": "Tiruchirapalli"
+    },
+    "5933": {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "block": "Tiruchirapalli"
+    },
+    "5934": {
+      "state": "Tamil Nadu",
+      "district": "Perambalur",
+      "block": "Srirangam"
+    },
+    "5935": {
+      "state": "Tamil Nadu",
+      "district": "Theni",
+      "block": "Theni"
+    },
+    "5936": {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "block": "Salem East"
+    },
+    "5937": {
+      "state": "Tamil Nadu",
+      "district": "The Nilgiris",
+      "block": "Nilgiris"
+    },
+    "5938": {
+      "state": "Kerala",
+      "district": "Kannur",
+      "block": "Cannanore"
+    },
+    "5939": {
+      "state": "Kerala",
+      "district": "Kasaragod",
+      "block": "Kasaragod"
+    },
+    "5940": {
+      "state": "Kerala",
+      "district": "Kozhikode",
+      "block": "Calicut"
+    },
+    "5941": {
+      "state": "Kerala",
+      "district": "Wayanad",
+      "block": "Calicut"
+    },
+    "5942": {
+      "state": "Kerala",
+      "district": "Palakkad",
+      "block": "Palghat"
+    },
+    "5943": {
+      "state": "Kerala",
+      "district": "Thrissur",
+      "block": "Trichur"
+    },
+    "5944": {
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "block": "Alwaye"
+    },
+    "5945": {
+      "state": "Kerala",
+      "district": "Alappuzha",
+      "block": "Alleppey"
+    },
+    "5946": {
+      "state": "Kerala",
+      "district": "Pathanamthitta",
+      "block": "Mavelikara"
+    },
+    "5947": {
+      "state": "Kerala",
+      "district": "Kollam",
+      "block": "Quilon"
+    },
+    "5948": {
+      "state": "Kerala",
+      "district": "Thiruvananthapuram",
+      "block": "Trivandrum North"
+    },
+    "5949": {
+      "state": "Kerala",
+      "district": "Thiruvananthapuram",
+      "block": "Trivandrum South"
+    },
+    "5950": {
+      "state": "West Bengal",
+      "district": "24 Paraganas North",
+      "block": "Kolkata East"
+    },
+    "5951": {
+      "state": "West Bengal",
+      "district": "Purba Bardhaman",
+      "block": "Burdwan"
+    },
+    "5952": {
+      "state": "West Bengal",
+      "district": "Medinipur East",
+      "block": "Contai"
+    },
+    "5953": {
+      "state": "West Bengal",
+      "district": "Medinipur East",
+      "block": "Tamluk"
+    },
+    "5954": {
+      "state": "West Bengal",
+      "district": "Purulia",
+      "block": "Purulia"
+    },
+    "5955": {
+      "state": "West Bengal",
+      "district": "Darjeeling",
+      "block": "Darjeeling"
+    },
+    "5956": {
+      "state": "Odisha",
+      "district": "Khordha",
+      "block": "Bhubaneswar"
+    },
+    "5957": {
+      "state": "Odisha",
+      "district": "Cuttack",
+      "block": "Cuttack City"
+    },
+    "5958": {
+      "state": "Odisha",
+      "district": "Cuttack",
+      "block": "Cuttack South"
+    },
+    "5959": {
+      "state": "Odisha",
+      "district": "Jajapur",
+      "block": "Jajpur Division"
+    },
+    "5960": {
+      "state": "Odisha",
+      "district": "Jajapur",
+      "block": "Cuttack City"
+    },
+    "5961": {
+      "state": "Odisha",
+      "district": "Baleshwar",
+      "block": "Balasore"
+    },
+    "5962": {
+      "state": "Odisha",
+      "district": "Mayurbhanj",
+      "block": "Mayurbhanj"
+    },
+    "5963": {
+      "state": "Odisha",
+      "district": "Anugul",
+      "block": "Dhenkanal"
+    },
+    "5964": {
+      "state": "Odisha",
+      "district": "Kalahandi",
+      "block": "Kalahandi"
+    },
+    "5965": {
+      "state": "Odisha",
+      "district": "Bargarh",
+      "block": "Sambalpur"
+    },
+    "5966": {
+      "state": "Odisha",
+      "district": "Sundargarh",
+      "block": "Rourkela"
+    },
+    "5967": {
+      "state": "Odisha",
+      "district": "Sundargarh",
+      "block": "Sundargarh"
+    },
+    "5968": {
+      "state": "Assam",
+      "district": "Kamrup Metro",
+      "block": "Guwahati"
+    },
+    "5969": {
+      "state": "Assam",
+      "district": "Barpeta",
+      "block": "Nalbari"
+    },
+    "5970": {
+      "state": "Assam",
+      "district": "South Salmara Mancachar",
+      "block": "Goalpara"
+    },
+    "5971": {
+      "state": "Assam",
+      "district": "Chirang",
+      "block": "Goalpara"
+    },
+    "5972": {
+      "state": "Assam",
+      "district": "Karimganj",
+      "block": "Cachar"
+    },
+    "5973": {
+      "state": "Arunachal Pradesh",
+      "district": "East Siang",
+      "block": "Arunachal Pradesh"
+    },
+    "5974": {
+      "state": "Arunachal Pradesh",
+      "district": "Papum Pare",
+      "block": "Arunachal Pradesh"
+    },
+    "5975": {
+      "state": "Mizoram",
+      "district": "Aizawl",
+      "block": "Mizoram"
+    },
+    "5976": {
+      "state": "Meghalaya",
+      "district": "Ri Bhoi",
+      "block": "Meghalaya"
+    },
+    "5977": {
+      "state": "Meghalaya",
+      "district": "West Khasi Hills",
+      "block": "Meghalaya"
+    },
+    "5978": {
+      "state": "Meghalaya",
+      "district": "West Jaintia Hills",
+      "block": "Meghalaya"
+    },
+    "5979": {
+      "state": "Meghalaya",
+      "district": "West Garo Hills",
+      "block": "Meghalaya"
+    },
+    "5980": {
+      "state": "Meghalaya",
+      "district": "East Garo Hills",
+      "block": "Meghalaya"
+    },
+    "5981": {
+      "state": "Manipur",
+      "district": "Bishnupur",
+      "block": "Manipur"
+    },
+    "5982": {
+      "state": "Manipur",
+      "district": "Senapati",
+      "block": "Manipur"
+    },
+    "5983": {
+      "state": "Manipur",
+      "district": "Imphal West",
+      "block": "Manipur"
+    },
+    "5984": {
+      "state": "Mizoram",
+      "district": "Saitual",
+      "block": "Mizoram"
+    },
+    "5985": {
+      "state": "Nagaland",
+      "district": "Kohima",
+      "block": "Nagaland"
+    },
+    "5986": {
+      "state": "Nagaland",
+      "district": "Mokokchung",
+      "block": "Nagaland"
+    },
+    "5987": {
+      "state": "Nagaland",
+      "district": "Tuensang",
+      "block": "Nagaland"
+    },
+    "5988": {
+      "state": "Tripura",
+      "district": "Sepahijala",
+      "block": "Agartala"
+    },
+    "5989": {
+      "state": "Tripura",
+      "district": "Gomati",
+      "block": "Agartala"
+    },
+    "5990": {
+      "state": "Tripura",
+      "district": "Unakoti",
+      "block": "Dharmanagar"
+    },
+    "5991": {
+      "state": "Bihar",
+      "district": "Patna",
+      "block": "Patna Sahib Division"
+    },
+    "5992": {
+      "state": "Bihar",
+      "district": "Nalanda",
+      "block": "Nalanda"
+    },
+    "5993": {
+      "state": "Bihar",
+      "district": "Aurangabad",
+      "block": "Aurangabadbihar"
+    },
+    "5994": {
+      "state": "Bihar",
+      "district": "Lakhisarai",
+      "block": "Munger"
+    },
+    "5995": {
+      "state": "Jharkhand",
+      "district": "Dumka",
+      "block": "Santhal Parganas"
+    },
+    "5996": {
+      "state": "Jharkhand",
+      "district": "Pakur",
+      "block": "Santhal Parganas"
+    },
+    "5997": {
+      "state": "Jharkhand",
+      "district": "Chatra",
+      "block": "Hazaribagh"
+    },
+    "5998": {
+      "state": "Jharkhand",
+      "district": "Bokaro",
+      "block": "Dhanbad"
+    },
+    "5999": {
+      "state": "Jharkhand",
+      "district": "East Singhbum",
+      "block": "Singhbhum"
+    },
+    "6000": {
+      "state": "Bihar",
+      "district": "Sitamarhi",
+      "block": "Muzaffarpur"
+    },
+    "6001": {
+      "state": "Bihar",
+      "district": "Sheohar",
+      "block": "Sitamarhi"
+    },
+    "6002": {
+      "state": "Bihar",
+      "district": "Purbi Champaran",
+      "block": "East Champaran"
+    },
+    "6003": {
+      "state": "Bihar",
+      "district": "Pashchim Champaran",
+      "block": "West Champaran"
+    },
+    "6004": {
+      "state": "Bihar",
+      "district": "Khagaria",
+      "block": "Begusarai"
+    },
+    "6005": {
+      "state": "Bihar",
+      "district": "Katihar",
+      "block": "Divisional Office Katihar"
+    },
+    "6006": {
+      "state": "Uttar Pradesh",
+      "district": "Kushi Nagar",
+      "block": "1Cbpo Dv"
+    },
+    "6007": {
+      "state": "West Bengal",
+      "district": "Kolkata",
+      "block": "2Cbpo Dv"
     }
   },
   "pincodes": {
@@ -47717,6 +48882,650 @@
     "855114": 5767,
     "855115": 5774,
     "855116": 5774,
-    "855117": 5774
+    "855117": 5774,
+    "110099": "5775",
+    "110102": "5776",
+    "110106": "5777",
+    "110110": "5775",
+    "110119": "5778",
+    "110124": "5779",
+    "110151": "5780",
+    "110195": "5780",
+    "121014": "17",
+    "121015": "17",
+    "122012": "5781",
+    "122098": "5781",
+    "123031": "5782",
+    "123304": "5783",
+    "124515": "57",
+    "125061": "5784",
+    "127311": "77",
+    "127312": "5785",
+    "131030": "5786",
+    "133008": "98",
+    "133010": "98",
+    "134008": "98",
+    "134105": "5787",
+    "136134": "5788",
+    "140127": "5789",
+    "140128": "5789",
+    "140408": "5790",
+    "141011": "5791",
+    "143004": "166",
+    "145002": "188",
+    "147008": "144",
+    "151006": "5792",
+    "151007": "5792",
+    "151214": "241",
+    "151511": "5792",
+    "152020": "5793",
+    "160006": "261",
+    "160043": "261",
+    "171014": "264",
+    "171015": "264",
+    "173033": "5794",
+    "173236": "303",
+    "173237": "303",
+    "175020": "346",
+    "175022": "346",
+    "175045": "346",
+    "175075": "346",
+    "176002": "401",
+    "176067": "369",
+    "176307": "388",
+    "176326": "388",
+    "176330": "388",
+    "181008": "5795",
+    "181134": "5795",
+    "181208": "5795",
+    "182129": "5796",
+    "182130": "5797",
+    "182131": "5796",
+    "182132": "5798",
+    "182133": "5798",
+    "182134": "5798",
+    "182135": "5798",
+    "182136": "5798",
+    "182137": "5798",
+    "182138": "5798",
+    "182139": "5798",
+    "182140": "5798",
+    "182207": "5796",
+    "184210": "5799",
+    "185133": "5800",
+    "190099": "5801",
+    "193109": "5802",
+    "193306": "5803",
+    "193505": "5804",
+    "194107": "5805",
+    "194202": "5805",
+    "194303": "5806",
+    "201018": "493",
+    "201020": "493",
+    "201021": "493",
+    "201022": "5807",
+    "201302": "5808",
+    "201315": "5808",
+    "201316": "5808",
+    "201317": "5808",
+    "201318": "5808",
+    "203413": "5809",
+    "204217": "505",
+    "208028": "5810",
+    "209860": "5811",
+    "210122": "599",
+    "211020": "5812",
+    "211021": "5812",
+    "211022": "5812",
+    "211023": "5812",
+    "212110": "5812",
+    "212308": "5812",
+    "221012": "5813",
+    "221109": "5814",
+    "221111": "5813",
+    "221407": "5813",
+    "222004": "641",
+    "222126": "641",
+    "222205": "641",
+    "224239": "5815",
+    "228172": "696",
+    "232114": "5813",
+    "232115": "5816",
+    "232341": "744",
+    "233234": "744",
+    "244105": "777",
+    "244720": "5817",
+    "246150": "799",
+    "246178": "799",
+    "247552": "826",
+    "247658": "5818",
+    "248016": "844",
+    "248018": "844",
+    "248019": "844",
+    "249127": "851",
+    "249136": "5819",
+    "249206": "844",
+    "249412": "5818",
+    "261304": "878",
+    "262123": "5820",
+    "262572": "902",
+    "263141": "913",
+    "263142": "913",
+    "271806": "947",
+    "272178": "958",
+    "273312": "5821",
+    "274307": "5822",
+    "274308": "5822",
+    "274309": "5822",
+    "302038": "5823",
+    "302041": "5823",
+    "302042": "5823",
+    "302044": "5823",
+    "302046": "5823",
+    "302047": "5823",
+    "302048": "5823",
+    "302049": "5823",
+    "303123": "5824",
+    "303124": "5824",
+    "304026": "1084",
+    "305006": "1086",
+    "305631": "1089",
+    "306604": "5825",
+    "307032": "1110",
+    "311606": "1119",
+    "312624": "5826",
+    "312625": "5826",
+    "312626": "5826",
+    "312627": "1122",
+    "312628": "5826",
+    "312629": "1122",
+    "313805": "5827",
+    "313806": "5827",
+    "323026": "5828",
+    "325224": "5829",
+    "332003": "1221",
+    "333010": "5830",
+    "333020": "5830",
+    "333055": "5830",
+    "333517": "5830",
+    "334002": "5831",
+    "334024": "1219",
+    "334025": "1219",
+    "335042": "1238",
+    "335521": "5832",
+    "335522": "5832",
+    "335708": "1238",
+    "341002": "1262",
+    "341003": "1262",
+    "341020": "1262",
+    "341307": "1262",
+    "341309": "1262",
+    "341521": "1262",
+    "342002": "1272",
+    "342016": "1272",
+    "342017": "1272",
+    "342029": "1272",
+    "342030": "1272",
+    "342032": "1272",
+    "344802": "1297",
+    "360026": "1322",
+    "360028": "1322",
+    "360045": "1329",
+    "360325": "1329",
+    "360465": "1329",
+    "360485": "1329",
+    "363623": "5833",
+    "363643": "5833",
+    "363745": "5834",
+    "363750": "5834",
+    "363755": "5834",
+    "363760": "5834",
+    "363765": "5834",
+    "363775": "5834",
+    "363780": "5834",
+    "365730": "1387",
+    "370641": "5835",
+    "380003": "5836",
+    "380049": "5836",
+    "380057": "5836",
+    "382050": "5837",
+    "382055": "5837",
+    "382122": "5837",
+    "382419": "5837",
+    "382426": "5837",
+    "382501": "5837",
+    "382722": "5838",
+    "383002": "5839",
+    "384005": "1440",
+    "384135": "1440",
+    "384266": "1441",
+    "384316": "5840",
+    "384412": "1440",
+    "384415": "1440",
+    "384440": "1440",
+    "384441": "1440",
+    "384445": "1440",
+    "384450": "1440",
+    "384455": "1440",
+    "384460": "1440",
+    "384465": "1440",
+    "384470": "1440",
+    "384515": "1440",
+    "384520": "1440",
+    "384530": "1440",
+    "384540": "1440",
+    "384550": "1440",
+    "384560": "1440",
+    "384565": "1440",
+    "384570": "1440",
+    "385581": "5841",
+    "387003": "1472",
+    "387105": "1472",
+    "389135": "5842",
+    "391776": "5843",
+    "394112": "1559",
+    "394652": "5844",
+    "396067": "1574",
+    "401205": "5845",
+    "403525": "5846",
+    "410209": "5847",
+    "410517": "5848",
+    "411067": "5849",
+    "411068": "5849",
+    "411069": "5849",
+    "411070": "5850",
+    "411071": "5849",
+    "411073": "5849",
+    "411081": "5848",
+    "413625": "1685",
+    "413626": "1685",
+    "415418": "5851",
+    "416138": "5852",
+    "416317": "5851",
+    "416429": "5851",
+    "425314": "5853",
+    "431011": "5854",
+    "431152": "5854",
+    "431543": "5855",
+    "431724": "1879",
+    "440029": "5856",
+    "442107": "1941",
+    "442919": "5857",
+    "442920": "1949",
+    "444007": "1976",
+    "444915": "5858",
+    "445324": "5859",
+    "451114": "5860",
+    "453552": "5861",
+    "461335": "5862",
+    "461445": "2131",
+    "462028": "2094",
+    "462040": "2094",
+    "462100": "2094",
+    "464334": "2095",
+    "464570": "5863",
+    "464573": "5863",
+    "465313": "2053",
+    "470340": "2142",
+    "470776": "5864",
+    "473445": "5865",
+    "473447": "5865",
+    "473773": "2182",
+    "475331": "2189",
+    "477450": "5866",
+    "481883": "5867",
+    "484447": "5868",
+    "485227": "5869",
+    "486883": "5870",
+    "491002": "5871",
+    "491230": "5872",
+    "491443": "5873",
+    "491996": "5874",
+    "492016": "5875",
+    "492017": "5875",
+    "492018": "5875",
+    "494220": "5876",
+    "494237": "5876",
+    "494332": "5877",
+    "494662": "5878",
+    "495444": "5879",
+    "495669": "5880",
+    "497450": "5881",
+    "500102": "5882",
+    "500103": "5883",
+    "500104": "5884",
+    "500106": "5885",
+    "500108": "5882",
+    "500109": "5886",
+    "500110": "5886",
+    "500111": "5884",
+    "500112": "5887",
+    "500113": "5882",
+    "500114": "5888",
+    "500117": "2463",
+    "500118": "2463",
+    "501302": "5883",
+    "501303": "5883",
+    "501513": "5882",
+    "502033": "5889",
+    "502034": "5889",
+    "502106": "5890",
+    "502284": "5889",
+    "505002": "5891",
+    "505506": "5892",
+    "506103": "5893",
+    "506146": "5894",
+    "506325": "2580",
+    "506333": "2580",
+    "506350": "2579",
+    "507112": "5895",
+    "507126": "5895",
+    "507127": "5895",
+    "507171": "5895",
+    "507315": "5895",
+    "508214": "5896",
+    "509328": "5897",
+    "515006": "5898",
+    "515251": "5899",
+    "516005": "5900",
+    "517508": "5901",
+    "517509": "5902",
+    "517646": "5901",
+    "521004": "2904",
+    "521184": "5903",
+    "521224": "5904",
+    "521231": "5903",
+    "521320": "2933",
+    "522008": "2946",
+    "522238": "2946",
+    "522239": "2946",
+    "522240": "2946",
+    "522241": "2946",
+    "523003": "5905",
+    "524300": "5906",
+    "524324": "5907",
+    "524347": "5906",
+    "530055": "5908",
+    "530056": "5908",
+    "530057": "5908",
+    "530058": "5908",
+    "530059": "5908",
+    "532167": "3107",
+    "532187": "3107",
+    "532204": "3107",
+    "532207": "3107",
+    "533007": "3151",
+    "533108": "5909",
+    "533219": "5910",
+    "533347": "5911",
+    "533348": "5911",
+    "533349": "5911",
+    "533350": "5911",
+    "533351": "5911",
+    "533352": "5909",
+    "533353": "5909",
+    "533354": "5911",
+    "533355": "5909",
+    "533451": "5912",
+    "533460": "5912",
+    "534008": "5913",
+    "534435": "5913",
+    "534444": "5913",
+    "535569": "3300",
+    "535582": "3275",
+    "560111": "5914",
+    "560113": "5915",
+    "560114": "5914",
+    "560115": "5915",
+    "560116": "5914",
+    "560117": "5916",
+    "560119": "5915",
+    "560500": "5914",
+    "562165": "5917",
+    "562166": "5918",
+    "563147": "3345",
+    "563157": "3345",
+    "563163": "3345",
+    "570032": "5919",
+    "570033": "5919",
+    "570034": "5919",
+    "571190": "5919",
+    "571202": "5920",
+    "573226": "3394",
+    "574162": "5921",
+    "575009": "5921",
+    "577007": "5922",
+    "577008": "5922",
+    "577009": "5922",
+    "580027": "3449",
+    "581199": "3456",
+    "581237": "3456",
+    "583153": "5923",
+    "583154": "5923",
+    "583155": "5923",
+    "583284": "5924",
+    "583285": "5924",
+    "583286": "5924",
+    "583287": "5924",
+    "583288": "5924",
+    "585107": "5925",
+    "585404": "3517",
+    "585445": "3517",
+    "585446": "3517",
+    "585447": "3517",
+    "585448": "3517",
+    "586162": "5926",
+    "586170": "5926",
+    "587156": "3534",
+    "587157": "3534",
+    "587331": "3534",
+    "600131": "5927",
+    "600132": "3566",
+    "600133": "5928",
+    "602118": "3590",
+    "603004": "5929",
+    "604411": "3616",
+    "605403": "3624",
+    "606109": "3611",
+    "610005": "5930",
+    "612905": "5931",
+    "612906": "5932",
+    "620027": "5933",
+    "621119": "5934",
+    "621731": "5931",
+    "625552": "5935",
+    "626161": "3748",
+    "628155": "3777",
+    "635130": "3823",
+    "636017": "5936",
+    "636907": "3832",
+    "637216": "3851",
+    "637415": "3851",
+    "638060": "3859",
+    "641040": "3874",
+    "641051": "3874",
+    "641063": "3874",
+    "643270": "5937",
+    "670051": "5938",
+    "670708": "3895",
+    "671320": "5939",
+    "671325": "5939",
+    "671534": "5939",
+    "673051": "5940",
+    "673124": "5941",
+    "673323": "3906",
+    "678051": "5942",
+    "680051": "5943",
+    "682050": "3942",
+    "682051": "3942",
+    "682052": "3942",
+    "682317": "3942",
+    "683548": "5944",
+    "688563": "5945",
+    "689515": "5946",
+    "690112": "3981",
+    "690546": "5947",
+    "691527": "5947",
+    "695051": "5948",
+    "695570": "5949",
+    "700161": "5950",
+    "700162": "5950",
+    "700163": "5950",
+    "711115": "4051",
+    "711206": "4051",
+    "711331": "4051",
+    "713132": "5951",
+    "721402": "5952",
+    "721403": "5952",
+    "721404": "5952",
+    "721405": "5952",
+    "721406": "5952",
+    "721624": "5953",
+    "721637": "5953",
+    "721638": "5953",
+    "723134": "5954",
+    "731218": "4260",
+    "731304": "4260",
+    "734425": "5955",
+    "742410": "4388",
+    "751026": "5956",
+    "751028": "5956",
+    "751029": "5956",
+    "751031": "5956",
+    "751032": "5956",
+    "751033": "5956",
+    "751034": "5956",
+    "751035": "5956",
+    "752004": "4483",
+    "752010": "4483",
+    "752032": "4483",
+    "753016": "5957",
+    "754034": "5958",
+    "754297": "5958",
+    "754298": "5958",
+    "754299": "5958",
+    "755051": "5959",
+    "755063": "5960",
+    "756050": "5961",
+    "756087": "5961",
+    "756088": "5961",
+    "756089": "5961",
+    "757056": "5962",
+    "758086": "4578",
+    "758087": "4578",
+    "759029": "4587",
+    "759149": "5963",
+    "759150": "4587",
+    "759151": "4587",
+    "760011": "4602",
+    "765010": "4680",
+    "765011": "4680",
+    "766003": "5964",
+    "767071": "4703",
+    "768007": "4716",
+    "768024": "4716",
+    "768053": "5965",
+    "768210": "4716",
+    "769017": "5966",
+    "770025": "5967",
+    "781002": "5968",
+    "781033": "5968",
+    "781320": "5969",
+    "782436": "4859",
+    "783136": "5970",
+    "783386": "5971",
+    "786148": "4991",
+    "788738": "5972",
+    "791004": "5973",
+    "791114": "5974",
+    "791701": "5975",
+    "792124": "5974",
+    "793116": "5976",
+    "793126": "5977",
+    "793161": "5978",
+    "794004": "5979",
+    "794113": "5980",
+    "795011": "5981",
+    "795105": "5982",
+    "795121": "5983",
+    "796006": "5975",
+    "796015": "5975",
+    "796246": "5975",
+    "796291": "5984",
+    "796470": "5975",
+    "797006": "5985",
+    "798607": "5986",
+    "798628": "5987",
+    "799011": "5988",
+    "799113": "5989",
+    "799132": "5988",
+    "799282": "5990",
+    "800030": "5991",
+    "800031": "5284",
+    "800032": "5284",
+    "800034": "5284",
+    "800035": "5991",
+    "801106": "5284",
+    "801107": "5284",
+    "801308": "5992",
+    "802224": "5311",
+    "804409": "5993",
+    "805113": "5349",
+    "805114": "5349",
+    "811306": "5994",
+    "814168": "5995",
+    "814170": "5995",
+    "815117": "5996",
+    "818142": "5538",
+    "821015": "5449",
+    "821114": "5449",
+    "824126": "5993",
+    "824304": "5993",
+    "825414": "5997",
+    "825415": "5997",
+    "826006": "5538",
+    "826007": "5538",
+    "826008": "5538",
+    "826009": "5538",
+    "826010": "5538",
+    "826011": "5538",
+    "826012": "5538",
+    "826013": "5538",
+    "827015": "5998",
+    "827016": "5998",
+    "828142": "5538",
+    "829115": "5998",
+    "831021": "5999",
+    "832113": "5999",
+    "834007": "5599",
+    "834012": "5599",
+    "834013": "5599",
+    "834014": "5599",
+    "835224": "5605",
+    "841228": "5628",
+    "841447": "5628",
+    "842006": "5640",
+    "843116": "5640",
+    "843131": "6000",
+    "843132": "5640",
+    "843335": "6001",
+    "845402": "6002",
+    "845404": "6003",
+    "845405": "6002",
+    "845439": "6003",
+    "845441": "6002",
+    "846010": "5706",
+    "847202": "5706",
+    "847412": "5715",
+    "848103": "5722",
+    "848104": "5722",
+    "851110": "5725",
+    "851121": "5725",
+    "851206": "6004",
+    "852133": "5773",
+    "852134": "5773",
+    "854110": "6005",
+    "900056": "6006",
+    "900099": "6007"
   }
 }

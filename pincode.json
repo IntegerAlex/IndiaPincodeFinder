@@ -94228,5 +94228,3225 @@
     "district": "Kishanganj",
     "block": "Kishanganj",
     "state": "Bihar"
+  },
+  "110099": {
+    "state": "Delhi",
+    "district": "North West",
+    "block": "Delhi North"
+  },
+  "110102": {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "block": "New Delhi Central"
+  },
+  "110106": {
+    "state": "Delhi",
+    "district": "North",
+    "block": "Delhi Gpo"
+  },
+  "110110": {
+    "state": "Delhi",
+    "district": "North West",
+    "block": "Delhi North"
+  },
+  "110119": {
+    "state": "Delhi",
+    "district": "South East",
+    "block": "New Delhi South"
+  },
+  "110124": {
+    "state": "Delhi",
+    "district": "South",
+    "block": "New Delhi South"
+  },
+  "110151": {
+    "state": "Delhi",
+    "district": "Shahdara",
+    "block": "Delhi East"
+  },
+  "110195": {
+    "state": "Delhi",
+    "district": "Shahdara",
+    "block": "Delhi East"
+  },
+  "121014": {
+    "state": "Haryana",
+    "district": "Faridabad",
+    "block": "Faridabad"
+  },
+  "121015": {
+    "state": "Haryana",
+    "district": "Faridabad",
+    "block": "Faridabad"
+  },
+  "122012": {
+    "state": "Haryana",
+    "district": "Gurugram",
+    "block": "Gurgaon"
+  },
+  "122098": {
+    "state": "Haryana",
+    "district": "Gurugram",
+    "block": "Gurgaon"
+  },
+  "123031": {
+    "state": "Haryana",
+    "district": "Mahendragarh",
+    "block": "Bhiwani"
+  },
+  "123304": {
+    "state": "Haryana",
+    "district": "Rewari",
+    "block": "Gurgaon"
+  },
+  "124515": {
+    "state": "Haryana",
+    "district": "Rohtak",
+    "block": "Rohtak"
+  },
+  "125061": {
+    "state": "Haryana",
+    "district": "Hisar",
+    "block": "Hissar"
+  },
+  "127311": {
+    "state": "Haryana",
+    "district": "Bhiwani",
+    "block": "Bhiwani"
+  },
+  "127312": {
+    "state": "Haryana",
+    "district": "Charki Dadri",
+    "block": "Bhiwani"
+  },
+  "131030": {
+    "state": "Haryana",
+    "district": "Sonipat",
+    "block": "Sonepat"
+  },
+  "133008": {
+    "state": "Haryana",
+    "district": "Ambala",
+    "block": "Ambala"
+  },
+  "133010": {
+    "state": "Haryana",
+    "district": "Ambala",
+    "block": "Ambala"
+  },
+  "134008": {
+    "state": "Haryana",
+    "district": "Ambala",
+    "block": "Ambala"
+  },
+  "134105": {
+    "state": "Haryana",
+    "district": "Panchkula",
+    "block": "Ambala"
+  },
+  "136134": {
+    "state": "Haryana",
+    "district": "Kurukshetra",
+    "block": "Kurukshetra"
+  },
+  "140127": {
+    "state": "Punjab",
+    "district": "Rupnagar",
+    "block": "Chandigarh"
+  },
+  "140128": {
+    "state": "Punjab",
+    "district": "Rupnagar",
+    "block": "Chandigarh"
+  },
+  "140408": {
+    "state": "Punjab",
+    "district": "Fatehgarh Sahib",
+    "block": "Patiala"
+  },
+  "141011": {
+    "state": "Punjab",
+    "district": "Ludhiana",
+    "block": "Ludhiana City"
+  },
+  "143004": {
+    "state": "Punjab",
+    "district": "Amritsar",
+    "block": "Amritsar"
+  },
+  "145002": {
+    "state": "Punjab",
+    "district": "Gurdaspur",
+    "block": "Gurdaspur"
+  },
+  "147008": {
+    "state": "Punjab",
+    "district": "Patiala",
+    "block": "Patiala"
+  },
+  "151006": {
+    "state": "Punjab",
+    "district": "Bathinda",
+    "block": "Bhatinda"
+  },
+  "151007": {
+    "state": "Punjab",
+    "district": "Bathinda",
+    "block": "Bhatinda"
+  },
+  "151214": {
+    "state": "Punjab",
+    "district": "Faridkot",
+    "block": "Faridkot"
+  },
+  "151511": {
+    "state": "Punjab",
+    "district": "Bathinda",
+    "block": "Bhatinda"
+  },
+  "152020": {
+    "state": "Punjab",
+    "district": "Fazilka",
+    "block": "Ferozpur"
+  },
+  "160006": {
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "block": "Chandigarh"
+  },
+  "160043": {
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "block": "Chandigarh"
+  },
+  "171014": {
+    "state": "Himachal Pradesh",
+    "district": "Shimla",
+    "block": "Shimla"
+  },
+  "171015": {
+    "state": "Himachal Pradesh",
+    "district": "Shimla",
+    "block": "Shimla"
+  },
+  "173033": {
+    "state": "Himachal Pradesh",
+    "district": "Sirmaur",
+    "block": "Solan"
+  },
+  "173236": {
+    "state": "Himachal Pradesh",
+    "district": "Solan",
+    "block": "Solan"
+  },
+  "173237": {
+    "state": "Himachal Pradesh",
+    "district": "Solan",
+    "block": "Solan"
+  },
+  "175020": {
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "block": "Mandi"
+  },
+  "175022": {
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "block": "Mandi"
+  },
+  "175045": {
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "block": "Mandi"
+  },
+  "175075": {
+    "state": "Himachal Pradesh",
+    "district": "Mandi",
+    "block": "Mandi"
+  },
+  "176002": {
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "block": "Dehra Gopipur"
+  },
+  "176067": {
+    "state": "Himachal Pradesh",
+    "district": "Kangra",
+    "block": "Dharamsala"
+  },
+  "176307": {
+    "state": "Himachal Pradesh",
+    "district": "Chamba",
+    "block": "Chamba"
+  },
+  "176326": {
+    "state": "Himachal Pradesh",
+    "district": "Chamba",
+    "block": "Chamba"
+  },
+  "176330": {
+    "state": "Himachal Pradesh",
+    "district": "Chamba",
+    "block": "Chamba"
+  },
+  "181008": {
+    "state": "Jammu And Kashmir",
+    "district": "Jammu",
+    "block": "Jammu"
+  },
+  "181134": {
+    "state": "Jammu And Kashmir",
+    "district": "Jammu",
+    "block": "Jammu"
+  },
+  "181208": {
+    "state": "Jammu And Kashmir",
+    "district": "Jammu",
+    "block": "Jammu"
+  },
+  "182129": {
+    "state": "Jammu And Kashmir",
+    "district": "Doda",
+    "block": "Udhampur"
+  },
+  "182130": {
+    "state": "Jammu And Kashmir",
+    "district": "Udhampur",
+    "block": "Udhampur"
+  },
+  "182131": {
+    "state": "Jammu And Kashmir",
+    "district": "Doda",
+    "block": "Udhampur"
+  },
+  "182132": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182133": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182134": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182135": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182136": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182137": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182138": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182139": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182140": {
+    "state": "Jammu And Kashmir",
+    "district": "Kishtwar",
+    "block": "Udhampur"
+  },
+  "182207": {
+    "state": "Jammu And Kashmir",
+    "district": "Doda",
+    "block": "Udhampur"
+  },
+  "184210": {
+    "state": "Jammu And Kashmir",
+    "district": "Kathua",
+    "block": "Jammu"
+  },
+  "185133": {
+    "state": "Jammu And Kashmir",
+    "district": "Rajouri",
+    "block": "Rajouri"
+  },
+  "190099": {
+    "state": "Jammu And Kashmir",
+    "district": "Srinagar",
+    "block": "Srinagar"
+  },
+  "193109": {
+    "state": "Jammu And Kashmir",
+    "district": "Baramulla",
+    "block": "Baramulla"
+  },
+  "193306": {
+    "state": "Jammu And Kashmir",
+    "district": "Pulwama",
+    "block": "Srinagar"
+  },
+  "193505": {
+    "state": "Jammu And Kashmir",
+    "district": "Bandipora",
+    "block": "Baramulla"
+  },
+  "194107": {
+    "state": "Ladakh",
+    "district": "Leh Ladakh",
+    "block": "Leh"
+  },
+  "194202": {
+    "state": "Ladakh",
+    "district": "Leh Ladakh",
+    "block": "Leh"
+  },
+  "194303": {
+    "state": "Ladakh",
+    "district": "Kargil",
+    "block": "Leh"
+  },
+  "201018": {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "block": "Ghaziabad"
+  },
+  "201020": {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "block": "Ghaziabad"
+  },
+  "201021": {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "block": "Ghaziabad"
+  },
+  "201022": {
+    "state": "Uttar Pradesh",
+    "district": "Hapur",
+    "block": "Ghaziabad"
+  },
+  "201302": {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "block": "Gautam Buddha Nagar Office"
+  },
+  "201315": {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "block": "Gautam Buddha Nagar Office"
+  },
+  "201316": {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "block": "Gautam Buddha Nagar Office"
+  },
+  "201317": {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "block": "Gautam Buddha Nagar Office"
+  },
+  "201318": {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "block": "Gautam Buddha Nagar Office"
+  },
+  "203413": {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "block": "Bulandshahar"
+  },
+  "204217": {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "block": "Aligarh"
+  },
+  "208028": {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "block": "Kanpur Ho"
+  },
+  "209860": {
+    "state": "Uttar Pradesh",
+    "district": "Unnao",
+    "block": "Kanpur Moffusil"
+  },
+  "210122": {
+    "state": "Uttar Pradesh",
+    "district": "Banda",
+    "block": "Banda"
+  },
+  "211020": {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "block": "Prayagraj"
+  },
+  "211021": {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "block": "Prayagraj"
+  },
+  "211022": {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "block": "Prayagraj"
+  },
+  "211023": {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "block": "Prayagraj"
+  },
+  "212110": {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "block": "Prayagraj"
+  },
+  "212308": {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "block": "Prayagraj"
+  },
+  "221012": {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "block": "Varanasi East"
+  },
+  "221109": {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "block": "Varanasi West"
+  },
+  "221111": {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "block": "Varanasi East"
+  },
+  "221407": {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "block": "Varanasi East"
+  },
+  "222004": {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "block": "Jaunpur"
+  },
+  "222126": {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "block": "Jaunpur"
+  },
+  "222205": {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "block": "Jaunpur"
+  },
+  "224239": {
+    "state": "Uttar Pradesh",
+    "district": "Ambedkar Nagar",
+    "block": "Faizabad"
+  },
+  "228172": {
+    "state": "Uttar Pradesh",
+    "district": "Sultanpur",
+    "block": "Sultanpur"
+  },
+  "232114": {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "block": "Varanasi East"
+  },
+  "232115": {
+    "state": "Uttar Pradesh",
+    "district": "Chandauli",
+    "block": "Varanasi East"
+  },
+  "232341": {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "block": "Ghazipur"
+  },
+  "233234": {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "block": "Ghazipur"
+  },
+  "244105": {
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "block": "Moradabad"
+  },
+  "244720": {
+    "state": "Uttarakhand",
+    "district": "Udam Singh Nagar",
+    "block": "Nainital"
+  },
+  "246150": {
+    "state": "Uttarakhand",
+    "district": "Pauri Garhwal",
+    "block": "Pauri"
+  },
+  "246178": {
+    "state": "Uttarakhand",
+    "district": "Pauri Garhwal",
+    "block": "Pauri"
+  },
+  "247552": {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "block": "Saharanpur"
+  },
+  "247658": {
+    "state": "Uttarakhand",
+    "district": "Haridwar",
+    "block": "Dehradun"
+  },
+  "248016": {
+    "state": "Uttarakhand",
+    "district": "Dehradun",
+    "block": "Dehradun"
+  },
+  "248018": {
+    "state": "Uttarakhand",
+    "district": "Dehradun",
+    "block": "Dehradun"
+  },
+  "248019": {
+    "state": "Uttarakhand",
+    "district": "Dehradun",
+    "block": "Dehradun"
+  },
+  "249127": {
+    "state": "Uttarakhand",
+    "district": "Tehri Garhwal",
+    "block": "Tehri"
+  },
+  "249136": {
+    "state": "Uttarakhand",
+    "district": "Uttar Kashi",
+    "block": "Tehri"
+  },
+  "249206": {
+    "state": "Uttarakhand",
+    "district": "Dehradun",
+    "block": "Dehradun"
+  },
+  "249412": {
+    "state": "Uttarakhand",
+    "district": "Haridwar",
+    "block": "Dehradun"
+  },
+  "261304": {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "block": "Sitapur"
+  },
+  "262123": {
+    "state": "Uttar Pradesh",
+    "district": "Pilibhit",
+    "block": "Bareilly"
+  },
+  "262572": {
+    "state": "Uttarakhand",
+    "district": "Pithoragarh",
+    "block": "Pithoragarh"
+  },
+  "263141": {
+    "state": "Uttarakhand",
+    "district": "Nainital",
+    "block": "Nainital"
+  },
+  "263142": {
+    "state": "Uttarakhand",
+    "district": "Nainital",
+    "block": "Nainital"
+  },
+  "271806": {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "block": "Bahraich"
+  },
+  "272178": {
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "block": "Basti"
+  },
+  "273312": {
+    "state": "Uttar Pradesh",
+    "district": "Maharajganj",
+    "block": "Gorakhpur"
+  },
+  "274307": {
+    "state": "Uttar Pradesh",
+    "district": "Kushi Nagar",
+    "block": "Deoria"
+  },
+  "274308": {
+    "state": "Uttar Pradesh",
+    "district": "Kushi Nagar",
+    "block": "Deoria"
+  },
+  "274309": {
+    "state": "Uttar Pradesh",
+    "district": "Kushi Nagar",
+    "block": "Deoria"
+  },
+  "302038": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "302041": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "302042": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "302044": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "302046": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "302047": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "302048": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "302049": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur City"
+  },
+  "303123": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur Moffusil"
+  },
+  "303124": {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "block": "Jaipur Moffusil"
+  },
+  "304026": {
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "block": "Tonk"
+  },
+  "305006": {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "block": "Ajmer"
+  },
+  "305631": {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "block": "Beawar"
+  },
+  "306604": {
+    "state": "Rajasthan",
+    "district": "Pali",
+    "block": "Pali"
+  },
+  "307032": {
+    "state": "Rajasthan",
+    "district": "Sirohi",
+    "block": "Sirohi"
+  },
+  "311606": {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "block": "Bhilwara"
+  },
+  "312624": {
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "block": "Chittorgarh"
+  },
+  "312625": {
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "block": "Chittorgarh"
+  },
+  "312626": {
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "block": "Chittorgarh"
+  },
+  "312627": {
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "block": "Chittorgarh"
+  },
+  "312628": {
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "block": "Chittorgarh"
+  },
+  "312629": {
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "block": "Chittorgarh"
+  },
+  "313805": {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "block": "Udaipur"
+  },
+  "313806": {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "block": "Udaipur"
+  },
+  "323026": {
+    "state": "Rajasthan",
+    "district": "Bundi",
+    "block": "Tonk"
+  },
+  "325224": {
+    "state": "Rajasthan",
+    "district": "Baran",
+    "block": "Jhalawar"
+  },
+  "332003": {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "block": "Sikar"
+  },
+  "333010": {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "block": "Jhunjhunu"
+  },
+  "333020": {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "block": "Jhunjhunu"
+  },
+  "333055": {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "block": "Jhunjhunu"
+  },
+  "333517": {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "block": "Jhunjhunu"
+  },
+  "334002": {
+    "state": "Chhattisgarh",
+    "district": "Raipur",
+    "block": "Bikaner"
+  },
+  "334024": {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "block": "Bikaner"
+  },
+  "334025": {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "block": "Bikaner"
+  },
+  "335042": {
+    "state": "Rajasthan",
+    "district": "Ganganagar",
+    "block": "Sriganganagar"
+  },
+  "335521": {
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "block": "Sriganganagar"
+  },
+  "335522": {
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "block": "Sriganganagar"
+  },
+  "335708": {
+    "state": "Rajasthan",
+    "district": "Ganganagar",
+    "block": "Sriganganagar"
+  },
+  "341002": {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "block": "Nagaur"
+  },
+  "341003": {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "block": "Nagaur"
+  },
+  "341020": {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "block": "Nagaur"
+  },
+  "341307": {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "block": "Nagaur"
+  },
+  "341309": {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "block": "Nagaur"
+  },
+  "341521": {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "block": "Nagaur"
+  },
+  "342002": {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "block": "Jodhpur"
+  },
+  "342016": {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "block": "Jodhpur"
+  },
+  "342017": {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "block": "Jodhpur"
+  },
+  "342029": {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "block": "Jodhpur"
+  },
+  "342030": {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "block": "Jodhpur"
+  },
+  "342032": {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "block": "Jodhpur"
+  },
+  "344802": {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "block": "Barmer"
+  },
+  "360026": {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "block": "Rajkot"
+  },
+  "360028": {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "block": "Rajkot"
+  },
+  "360045": {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "block": "Gondal"
+  },
+  "360325": {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "block": "Gondal"
+  },
+  "360465": {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "block": "Gondal"
+  },
+  "360485": {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "block": "Gondal"
+  },
+  "363623": {
+    "state": "Gujarat",
+    "district": "Morbi",
+    "block": "Rajkot"
+  },
+  "363643": {
+    "state": "Gujarat",
+    "district": "Morbi",
+    "block": "Rajkot"
+  },
+  "363745": {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "block": "Surendranagar"
+  },
+  "363750": {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "block": "Surendranagar"
+  },
+  "363755": {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "block": "Surendranagar"
+  },
+  "363760": {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "block": "Surendranagar"
+  },
+  "363765": {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "block": "Surendranagar"
+  },
+  "363775": {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "block": "Surendranagar"
+  },
+  "363780": {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "block": "Surendranagar"
+  },
+  "365730": {
+    "state": "Gujarat",
+    "district": "Amreli",
+    "block": "Amreli"
+  },
+  "370641": {
+    "state": "Gujarat",
+    "district": "Kachchh",
+    "block": "Kutch"
+  },
+  "380003": {
+    "state": "Gujarat",
+    "district": "Ahmadabad",
+    "block": "Ahmedabad City"
+  },
+  "380049": {
+    "state": "Gujarat",
+    "district": "Ahmadabad",
+    "block": "Ahmedabad City"
+  },
+  "380057": {
+    "state": "Gujarat",
+    "district": "Ahmadabad",
+    "block": "Ahmedabad City"
+  },
+  "382050": {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "block": "Gandhinagar"
+  },
+  "382055": {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "block": "Gandhinagar"
+  },
+  "382122": {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "block": "Gandhinagar"
+  },
+  "382419": {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "block": "Gandhinagar"
+  },
+  "382426": {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "block": "Gandhinagar"
+  },
+  "382501": {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "block": "Gandhinagar"
+  },
+  "382722": {
+    "state": "Gujarat",
+    "district": "Ahmadabad",
+    "block": "Gandhinagar"
+  },
+  "383002": {
+    "state": "Gujarat",
+    "district": "Sabar Kantha",
+    "block": "Sabarkantha"
+  },
+  "384005": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384135": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384266": {
+    "state": "Gujarat",
+    "district": "Patan",
+    "block": "Patan"
+  },
+  "384316": {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "block": "Mahesana"
+  },
+  "384412": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384415": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384440": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384441": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384445": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384450": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384455": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384460": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384465": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384470": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384515": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384520": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384530": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384540": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384550": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384560": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384565": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "384570": {
+    "state": "Gujarat",
+    "district": "Mahesana",
+    "block": "Mahesana"
+  },
+  "385581": {
+    "state": "Gujarat",
+    "district": "Banas Kantha",
+    "block": "Banaskantha"
+  },
+  "387003": {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "block": "Kheda"
+  },
+  "387105": {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "block": "Kheda"
+  },
+  "389135": {
+    "state": "Gujarat",
+    "district": "Dohad",
+    "block": "Panchmahals"
+  },
+  "391776": {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "block": "Vadodara West"
+  },
+  "394112": {
+    "state": "Gujarat",
+    "district": "Surat",
+    "block": "Surat"
+  },
+  "394652": {
+    "state": "Gujarat",
+    "district": "Tapi",
+    "block": "Bardoli"
+  },
+  "396067": {
+    "state": "Gujarat",
+    "district": "Valsad",
+    "block": "Valsad"
+  },
+  "401205": {
+    "state": "Maharashtra",
+    "district": "Palghar",
+    "block": "Palghar"
+  },
+  "403525": {
+    "state": "Goa",
+    "district": "North Goa",
+    "block": "Goa"
+  },
+  "410209": {
+    "state": "Maharashtra",
+    "district": "Raigad",
+    "block": "Navi Mumbai"
+  },
+  "410517": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune Moffusil"
+  },
+  "411067": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune City West"
+  },
+  "411068": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune City West"
+  },
+  "411069": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune City West"
+  },
+  "411070": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune City East"
+  },
+  "411071": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune City West"
+  },
+  "411073": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune City West"
+  },
+  "411081": {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "block": "Pune Moffusil"
+  },
+  "413625": {
+    "state": "Maharashtra",
+    "district": "Osmanabad",
+    "block": "Osmanabad"
+  },
+  "413626": {
+    "state": "Maharashtra",
+    "district": "Osmanabad",
+    "block": "Osmanabad"
+  },
+  "415418": {
+    "state": "Maharashtra",
+    "district": "Sangli",
+    "block": "Sangli Division"
+  },
+  "416138": {
+    "state": "Maharashtra",
+    "district": "Kolhapur",
+    "block": "Kolhapur"
+  },
+  "416317": {
+    "state": "Maharashtra",
+    "district": "Sangli",
+    "block": "Sangli Division"
+  },
+  "416429": {
+    "state": "Maharashtra",
+    "district": "Sangli",
+    "block": "Sangli Division"
+  },
+  "425314": {
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "block": "Bhusaval"
+  },
+  "431011": {
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "block": "Chhatrapati Sambhajinagar"
+  },
+  "431152": {
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "block": "Chhatrapati Sambhajinagar"
+  },
+  "431543": {
+    "state": "Maharashtra",
+    "district": "Hingoli",
+    "block": "Pharbhani"
+  },
+  "431724": {
+    "state": "Maharashtra",
+    "district": "Nanded",
+    "block": "Nanded"
+  },
+  "440029": {
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "block": "Nagpur City"
+  },
+  "442107": {
+    "state": "Maharashtra",
+    "district": "Wardha",
+    "block": "Wardha"
+  },
+  "442919": {
+    "state": "Maharashtra",
+    "district": "Gadchiroli",
+    "block": "Chandrapur"
+  },
+  "442920": {
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "block": "Chandrapur"
+  },
+  "444007": {
+    "state": "Maharashtra",
+    "district": "Akola",
+    "block": "Akola"
+  },
+  "444915": {
+    "state": "Maharashtra",
+    "district": "Amravati",
+    "block": "Amaravati"
+  },
+  "445324": {
+    "state": "Maharashtra",
+    "district": "Yavatmal",
+    "block": "Yeotmal"
+  },
+  "451114": {
+    "state": "Madhya Pradesh",
+    "district": "Khargone",
+    "block": "Khandwa"
+  },
+  "453552": {
+    "state": "Madhya Pradesh",
+    "district": "Indore",
+    "block": "Indore Moffusil"
+  },
+  "461335": {
+    "state": "Madhya Pradesh",
+    "district": "Harda",
+    "block": "Hoshangabad"
+  },
+  "461445": {
+    "state": "Madhya Pradesh",
+    "district": "Sehore",
+    "block": "Sehore"
+  },
+  "462028": {
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "block": "Bhopal"
+  },
+  "462040": {
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "block": "Bhopal"
+  },
+  "462100": {
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "block": "Bhopal"
+  },
+  "464334": {
+    "state": "Madhya Pradesh",
+    "district": "Vidisha",
+    "block": "Vidisha"
+  },
+  "464570": {
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "block": "Vidisha"
+  },
+  "464573": {
+    "state": "Madhya Pradesh",
+    "district": "Raisen",
+    "block": "Vidisha"
+  },
+  "465313": {
+    "state": "Madhya Pradesh",
+    "district": "Ujjain",
+    "block": "Ujjain"
+  },
+  "470340": {
+    "state": "Madhya Pradesh",
+    "district": "Sagar",
+    "block": "Sagar"
+  },
+  "470776": {
+    "state": "Madhya Pradesh",
+    "district": "Damoh",
+    "block": "Sagar"
+  },
+  "473445": {
+    "state": "Madhya Pradesh",
+    "district": "Ashoknagar",
+    "block": "Guna"
+  },
+  "473447": {
+    "state": "Madhya Pradesh",
+    "district": "Ashoknagar",
+    "block": "Guna"
+  },
+  "473773": {
+    "state": "Madhya Pradesh",
+    "district": "Shivpuri",
+    "block": "Shivpuri"
+  },
+  "475331": {
+    "state": "Madhya Pradesh",
+    "district": "Gwalior",
+    "block": "Gwalior"
+  },
+  "477450": {
+    "state": "Madhya Pradesh",
+    "district": "Bhind",
+    "block": "Morena"
+  },
+  "481883": {
+    "state": "Madhya Pradesh",
+    "district": "Dindori",
+    "block": "Mandla"
+  },
+  "484447": {
+    "state": "Madhya Pradesh",
+    "district": "Anuppur",
+    "block": "Shahdol"
+  },
+  "485227": {
+    "state": "Madhya Pradesh",
+    "district": "Satna",
+    "block": "Satna"
+  },
+  "486883": {
+    "state": "Madhya Pradesh",
+    "district": "Sidhi",
+    "block": "Rewa"
+  },
+  "491002": {
+    "state": "Chhattisgarh",
+    "district": "Durg",
+    "block": "Durg"
+  },
+  "491230": {
+    "state": "Chhattisgarh",
+    "district": "Balod",
+    "block": "Durg"
+  },
+  "491443": {
+    "state": "Chhattisgarh",
+    "district": "Rajnandgaon",
+    "block": "Rajnandgaon"
+  },
+  "491996": {
+    "state": "Chhattisgarh",
+    "district": "Kabirdham",
+    "block": "Rajnandgaon"
+  },
+  "492016": {
+    "state": "Chhattisgarh",
+    "district": "Raipur",
+    "block": "Raipur"
+  },
+  "492017": {
+    "state": "Chhattisgarh",
+    "district": "Raipur",
+    "block": "Raipur"
+  },
+  "492018": {
+    "state": "Chhattisgarh",
+    "district": "Raipur",
+    "block": "Raipur"
+  },
+  "494220": {
+    "state": "Chhattisgarh",
+    "district": "Kondagaon",
+    "block": "Bastar"
+  },
+  "494237": {
+    "state": "Chhattisgarh",
+    "district": "Kondagaon",
+    "block": "Bastar"
+  },
+  "494332": {
+    "state": "Chhattisgarh",
+    "district": "Raipur",
+    "block": "Bastar"
+  },
+  "494662": {
+    "state": "Chhattisgarh",
+    "district": "Narayanpur",
+    "block": "Bastar"
+  },
+  "495444": {
+    "state": "Chhattisgarh",
+    "district": "Korba",
+    "block": "Bilaspur"
+  },
+  "495669": {
+    "state": "Chhattisgarh",
+    "district": "Janjgir-Champa",
+    "block": "Bilaspur"
+  },
+  "497450": {
+    "state": "Chhattisgarh",
+    "district": "Korea",
+    "block": "Surguja Division"
+  },
+  "500102": {
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "block": "Hyderabad South East"
+  },
+  "500103": {
+    "state": "Telangana",
+    "district": "Medchal Malkajgiri",
+    "block": "Secunderabad"
+  },
+  "500104": {
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "block": "Hyderabad City"
+  },
+  "500106": {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "block": "Hyderabad Gpo"
+  },
+  "500108": {
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "block": "Hyderabad South East"
+  },
+  "500109": {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "block": "Hyderabad City"
+  },
+  "500110": {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "block": "Hyderabad City"
+  },
+  "500111": {
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "block": "Hyderabad City"
+  },
+  "500112": {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "block": "Hyderabad South East"
+  },
+  "500113": {
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "block": "Hyderabad South East"
+  },
+  "500114": {
+    "state": "Telangana",
+    "district": "Medchal Malkajgiri",
+    "block": "Hyderabad City"
+  },
+  "500117": {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "block": "Secunderabad"
+  },
+  "500118": {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "block": "Secunderabad"
+  },
+  "501302": {
+    "state": "Telangana",
+    "district": "Medchal Malkajgiri",
+    "block": "Secunderabad"
+  },
+  "501303": {
+    "state": "Telangana",
+    "district": "Medchal Malkajgiri",
+    "block": "Secunderabad"
+  },
+  "501513": {
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "block": "Hyderabad South East"
+  },
+  "502033": {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "block": "Sangareddy"
+  },
+  "502034": {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "block": "Sangareddy"
+  },
+  "502106": {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "block": "Medak"
+  },
+  "502284": {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "block": "Sangareddy"
+  },
+  "505002": {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "block": "Karimnagar"
+  },
+  "505506": {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "block": "Peddapalli"
+  },
+  "506103": {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "block": "Warangal"
+  },
+  "506146": {
+    "state": "Telangana",
+    "district": "Jangoan",
+    "block": "Hanamkonda"
+  },
+  "506325": {
+    "state": "Telangana",
+    "district": "Warangal",
+    "block": "Warangal"
+  },
+  "506333": {
+    "state": "Telangana",
+    "district": "Warangal",
+    "block": "Warangal"
+  },
+  "506350": {
+    "state": "Telangana",
+    "district": "Warangal",
+    "block": "Hanamkonda"
+  },
+  "507112": {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "block": "Khammam"
+  },
+  "507126": {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "block": "Khammam"
+  },
+  "507127": {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "block": "Khammam"
+  },
+  "507171": {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "block": "Khammam"
+  },
+  "507315": {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "block": "Khammam"
+  },
+  "508214": {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "block": "Suryapet"
+  },
+  "509328": {
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "block": "Wanaparthy"
+  },
+  "515006": {
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "block": "Anantapur"
+  },
+  "515251": {
+    "state": "Andhra Pradesh",
+    "district": "Sri Sathya Sai",
+    "block": "Hindupur"
+  },
+  "516005": {
+    "state": "Andhra Pradesh",
+    "district": "Y.S.R.",
+    "block": "Cuddapah"
+  },
+  "517508": {
+    "state": "Andhra Pradesh",
+    "district": "Tirupati",
+    "block": "Tirupati"
+  },
+  "517509": {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "block": "Tirupati"
+  },
+  "517646": {
+    "state": "Andhra Pradesh",
+    "district": "Tirupati",
+    "block": "Tirupati"
+  },
+  "521004": {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "block": "Machilipatnam"
+  },
+  "521184": {
+    "state": "Andhra Pradesh",
+    "district": "Ntr",
+    "block": "Vijayawada"
+  },
+  "521224": {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "block": "Vijayawada"
+  },
+  "521231": {
+    "state": "Andhra Pradesh",
+    "district": "Ntr",
+    "block": "Vijayawada"
+  },
+  "521320": {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "block": "Gudivada"
+  },
+  "522008": {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "block": "Guntur"
+  },
+  "522238": {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "block": "Guntur"
+  },
+  "522239": {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "block": "Guntur"
+  },
+  "522240": {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "block": "Guntur"
+  },
+  "522241": {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "block": "Guntur"
+  },
+  "523003": {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "block": "Prakasam"
+  },
+  "524300": {
+    "state": "Andhra Pradesh",
+    "district": "Spsr Nellore",
+    "block": "Nellore"
+  },
+  "524324": {
+    "state": "Andhra Pradesh",
+    "district": "Spsr Nellore",
+    "block": "Gudur"
+  },
+  "524347": {
+    "state": "Andhra Pradesh",
+    "district": "Spsr Nellore",
+    "block": "Nellore"
+  },
+  "530055": {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatanam",
+    "block": "Visakhapatnam"
+  },
+  "530056": {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatanam",
+    "block": "Visakhapatnam"
+  },
+  "530057": {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatanam",
+    "block": "Visakhapatnam"
+  },
+  "530058": {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatanam",
+    "block": "Visakhapatnam"
+  },
+  "530059": {
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatanam",
+    "block": "Visakhapatnam"
+  },
+  "532167": {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "block": "Srikakulam"
+  },
+  "532187": {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "block": "Srikakulam"
+  },
+  "532204": {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "block": "Srikakulam"
+  },
+  "532207": {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "block": "Srikakulam"
+  },
+  "533007": {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "block": "Kakinada"
+  },
+  "533108": {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "block": "Rajahmundry"
+  },
+  "533219": {
+    "state": "Andhra Pradesh",
+    "district": "Konaseema",
+    "block": "Amalapuram"
+  },
+  "533347": {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "block": "Rajahmundry"
+  },
+  "533348": {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "block": "Rajahmundry"
+  },
+  "533349": {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "block": "Rajahmundry"
+  },
+  "533350": {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "block": "Rajahmundry"
+  },
+  "533351": {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "block": "Rajahmundry"
+  },
+  "533352": {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "block": "Rajahmundry"
+  },
+  "533353": {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "block": "Rajahmundry"
+  },
+  "533354": {
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "block": "Rajahmundry"
+  },
+  "533355": {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "block": "Rajahmundry"
+  },
+  "533451": {
+    "state": "Andhra Pradesh",
+    "district": "Kakinada",
+    "block": "Kakinada"
+  },
+  "533460": {
+    "state": "Andhra Pradesh",
+    "district": "Kakinada",
+    "block": "Kakinada"
+  },
+  "534008": {
+    "state": "Andhra Pradesh",
+    "district": "Eluru",
+    "block": "Eluru"
+  },
+  "534435": {
+    "state": "Andhra Pradesh",
+    "district": "Eluru",
+    "block": "Eluru"
+  },
+  "534444": {
+    "state": "Andhra Pradesh",
+    "district": "Eluru",
+    "block": "Eluru"
+  },
+  "535569": {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "block": "Parvathipuram"
+  },
+  "535582": {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "block": "Vizianagaram"
+  },
+  "560111": {
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "block": "Bengaluru South"
+  },
+  "560113": {
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "block": "Bengaluru East"
+  },
+  "560114": {
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "block": "Bengaluru South"
+  },
+  "560115": {
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "block": "Bengaluru East"
+  },
+  "560116": {
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "block": "Bengaluru South"
+  },
+  "560117": {
+    "state": "Karnataka",
+    "district": "Bengaluru Rural",
+    "block": "Bengaluru East"
+  },
+  "560119": {
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "block": "Bengaluru East"
+  },
+  "560500": {
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "block": "Bengaluru South"
+  },
+  "562165": {
+    "state": "Karnataka",
+    "district": "Bengaluru Rural",
+    "block": "Channapatna"
+  },
+  "562166": {
+    "state": "Karnataka",
+    "district": "Ramanagara",
+    "block": "Bengaluru South"
+  },
+  "563147": {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "block": "Kolar"
+  },
+  "563157": {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "block": "Kolar"
+  },
+  "563163": {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "block": "Kolar"
+  },
+  "570032": {
+    "state": "Karnataka",
+    "district": "Mysuru",
+    "block": "Mysuru"
+  },
+  "570033": {
+    "state": "Karnataka",
+    "district": "Mysuru",
+    "block": "Mysuru"
+  },
+  "570034": {
+    "state": "Karnataka",
+    "district": "Mysuru",
+    "block": "Mysuru"
+  },
+  "571190": {
+    "state": "Karnataka",
+    "district": "Mysuru",
+    "block": "Mysuru"
+  },
+  "571202": {
+    "state": "Karnataka",
+    "district": "Kodagu",
+    "block": "Kodagu"
+  },
+  "573226": {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "block": "Hassan"
+  },
+  "574162": {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "block": "Mangaluru"
+  },
+  "575009": {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "block": "Mangaluru"
+  },
+  "577007": {
+    "state": "Karnataka",
+    "district": "Davangere",
+    "block": "Davanagere Division"
+  },
+  "577008": {
+    "state": "Karnataka",
+    "district": "Davangere",
+    "block": "Davanagere Division"
+  },
+  "577009": {
+    "state": "Karnataka",
+    "district": "Davangere",
+    "block": "Davanagere Division"
+  },
+  "580027": {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "block": "Dharwad"
+  },
+  "581199": {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "block": "Haveri"
+  },
+  "581237": {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "block": "Haveri"
+  },
+  "583153": {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "block": "Ballari"
+  },
+  "583154": {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "block": "Ballari"
+  },
+  "583155": {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "block": "Ballari"
+  },
+  "583284": {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "block": "Koppal Division"
+  },
+  "583285": {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "block": "Koppal Division"
+  },
+  "583286": {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "block": "Koppal Division"
+  },
+  "583287": {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "block": "Koppal Division"
+  },
+  "583288": {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "block": "Koppal Division"
+  },
+  "585107": {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "block": "Kalaburagi"
+  },
+  "585404": {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "block": "Bidar"
+  },
+  "585445": {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "block": "Bidar"
+  },
+  "585446": {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "block": "Bidar"
+  },
+  "585447": {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "block": "Bidar"
+  },
+  "585448": {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "block": "Bidar"
+  },
+  "586162": {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "block": "Vijayapura"
+  },
+  "586170": {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "block": "Vijayapura"
+  },
+  "587156": {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "block": "Bagalkot"
+  },
+  "587157": {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "block": "Bagalkot"
+  },
+  "587331": {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "block": "Bagalkot"
+  },
+  "600131": {
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "block": "Tambaram"
+  },
+  "600132": {
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "block": "Tambaram"
+  },
+  "600133": {
+    "state": "Tamil Nadu",
+    "district": "Thiruvallur",
+    "block": "Tambaram"
+  },
+  "602118": {
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "block": "Kanchipuram"
+  },
+  "603004": {
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "block": "Chengalpattu"
+  },
+  "604411": {
+    "state": "Tamil Nadu",
+    "district": "Tiruvannamalai",
+    "block": "Tiruvannamalai"
+  },
+  "605403": {
+    "state": "Tamil Nadu",
+    "district": "Villupuram",
+    "block": "Pondicherry"
+  },
+  "606109": {
+    "state": "Tamil Nadu",
+    "district": "Cuddalore",
+    "block": "Vriddhachalam"
+  },
+  "610005": {
+    "state": "Tamil Nadu",
+    "district": "Thiruvarur",
+    "block": "Nagapattinam"
+  },
+  "612905": {
+    "state": "Tamil Nadu",
+    "district": "Ariyalur",
+    "block": "Tiruchirapalli"
+  },
+  "612906": {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "block": "Tiruchirapalli"
+  },
+  "620027": {
+    "state": "Tamil Nadu",
+    "district": "Tiruchirappalli",
+    "block": "Tiruchirapalli"
+  },
+  "621119": {
+    "state": "Tamil Nadu",
+    "district": "Perambalur",
+    "block": "Srirangam"
+  },
+  "621731": {
+    "state": "Tamil Nadu",
+    "district": "Ariyalur",
+    "block": "Tiruchirapalli"
+  },
+  "625552": {
+    "state": "Tamil Nadu",
+    "district": "Theni",
+    "block": "Theni"
+  },
+  "626161": {
+    "state": "Tamil Nadu",
+    "district": "Virudhunagar",
+    "block": "Virudhunagar"
+  },
+  "628155": {
+    "state": "Tamil Nadu",
+    "district": "Tuticorin",
+    "block": "Tuticorin"
+  },
+  "635130": {
+    "state": "Tamil Nadu",
+    "district": "Krishnagiri",
+    "block": "Krishnagiri"
+  },
+  "636017": {
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "block": "Salem East"
+  },
+  "636907": {
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "block": "Dharmapuri"
+  },
+  "637216": {
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "block": "Namakkal"
+  },
+  "637415": {
+    "state": "Tamil Nadu",
+    "district": "Namakkal",
+    "block": "Namakkal"
+  },
+  "638060": {
+    "state": "Tamil Nadu",
+    "district": "Erode",
+    "block": "Erode"
+  },
+  "641040": {
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "block": "Coimbatore"
+  },
+  "641051": {
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "block": "Coimbatore"
+  },
+  "641063": {
+    "state": "Tamil Nadu",
+    "district": "Coimbatore",
+    "block": "Coimbatore"
+  },
+  "643270": {
+    "state": "Tamil Nadu",
+    "district": "The Nilgiris",
+    "block": "Nilgiris"
+  },
+  "670051": {
+    "state": "Kerala",
+    "district": "Kannur",
+    "block": "Cannanore"
+  },
+  "670708": {
+    "state": "Kerala",
+    "district": "Kannur",
+    "block": "Thalassery"
+  },
+  "671320": {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "block": "Kasaragod"
+  },
+  "671325": {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "block": "Kasaragod"
+  },
+  "671534": {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "block": "Kasaragod"
+  },
+  "673051": {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "block": "Calicut"
+  },
+  "673124": {
+    "state": "Kerala",
+    "district": "Wayanad",
+    "block": "Calicut"
+  },
+  "673323": {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "block": "Vadakara"
+  },
+  "678051": {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "block": "Palghat"
+  },
+  "680051": {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "block": "Trichur"
+  },
+  "682050": {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "block": "Ernakulam"
+  },
+  "682051": {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "block": "Ernakulam"
+  },
+  "682052": {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "block": "Ernakulam"
+  },
+  "682317": {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "block": "Ernakulam"
+  },
+  "683548": {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "block": "Alwaye"
+  },
+  "688563": {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "block": "Alleppey"
+  },
+  "689515": {
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "block": "Mavelikara"
+  },
+  "690112": {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "block": "Mavelikara"
+  },
+  "690546": {
+    "state": "Kerala",
+    "district": "Kollam",
+    "block": "Quilon"
+  },
+  "691527": {
+    "state": "Kerala",
+    "district": "Kollam",
+    "block": "Quilon"
+  },
+  "695051": {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "block": "Trivandrum North"
+  },
+  "695570": {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "block": "Trivandrum South"
+  },
+  "700161": {
+    "state": "West Bengal",
+    "district": "24 Paraganas North",
+    "block": "Kolkata East"
+  },
+  "700162": {
+    "state": "West Bengal",
+    "district": "24 Paraganas North",
+    "block": "Kolkata East"
+  },
+  "700163": {
+    "state": "West Bengal",
+    "district": "24 Paraganas North",
+    "block": "Kolkata East"
+  },
+  "711115": {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "block": "Howrah"
+  },
+  "711206": {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "block": "Howrah"
+  },
+  "711331": {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "block": "Howrah"
+  },
+  "713132": {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "block": "Burdwan"
+  },
+  "721402": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Contai"
+  },
+  "721403": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Contai"
+  },
+  "721404": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Contai"
+  },
+  "721405": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Contai"
+  },
+  "721406": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Contai"
+  },
+  "721624": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Tamluk"
+  },
+  "721637": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Tamluk"
+  },
+  "721638": {
+    "state": "West Bengal",
+    "district": "Medinipur East",
+    "block": "Tamluk"
+  },
+  "723134": {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "block": "Purulia"
+  },
+  "731218": {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "block": "Birbhum"
+  },
+  "731304": {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "block": "Birbhum"
+  },
+  "734425": {
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "block": "Darjeeling"
+  },
+  "742410": {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "block": "Murshidabad"
+  },
+  "751026": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "751028": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "751029": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "751031": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "751032": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "751033": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "751034": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "751035": {
+    "state": "Odisha",
+    "district": "Khordha",
+    "block": "Bhubaneswar"
+  },
+  "752004": {
+    "state": "Odisha",
+    "district": "Puri",
+    "block": "Puri"
+  },
+  "752010": {
+    "state": "Odisha",
+    "district": "Puri",
+    "block": "Puri"
+  },
+  "752032": {
+    "state": "Odisha",
+    "district": "Puri",
+    "block": "Puri"
+  },
+  "753016": {
+    "state": "Odisha",
+    "district": "Cuttack",
+    "block": "Cuttack City"
+  },
+  "754034": {
+    "state": "Odisha",
+    "district": "Cuttack",
+    "block": "Cuttack South"
+  },
+  "754297": {
+    "state": "Odisha",
+    "district": "Cuttack",
+    "block": "Cuttack South"
+  },
+  "754298": {
+    "state": "Odisha",
+    "district": "Cuttack",
+    "block": "Cuttack South"
+  },
+  "754299": {
+    "state": "Odisha",
+    "district": "Cuttack",
+    "block": "Cuttack South"
+  },
+  "755051": {
+    "state": "Odisha",
+    "district": "Jajapur",
+    "block": "Jajpur Division"
+  },
+  "755063": {
+    "state": "Odisha",
+    "district": "Jajapur",
+    "block": "Cuttack City"
+  },
+  "756050": {
+    "state": "Odisha",
+    "district": "Baleshwar",
+    "block": "Balasore"
+  },
+  "756087": {
+    "state": "Odisha",
+    "district": "Baleshwar",
+    "block": "Balasore"
+  },
+  "756088": {
+    "state": "Odisha",
+    "district": "Baleshwar",
+    "block": "Balasore"
+  },
+  "756089": {
+    "state": "Odisha",
+    "district": "Baleshwar",
+    "block": "Balasore"
+  },
+  "757056": {
+    "state": "Odisha",
+    "district": "Mayurbhanj",
+    "block": "Mayurbhanj"
+  },
+  "758086": {
+    "state": "Odisha",
+    "district": "Kendujhar",
+    "block": "Keonjhar"
+  },
+  "758087": {
+    "state": "Odisha",
+    "district": "Kendujhar",
+    "block": "Keonjhar"
+  },
+  "759029": {
+    "state": "Odisha",
+    "district": "Dhenkanal",
+    "block": "Dhenkanal"
+  },
+  "759149": {
+    "state": "Odisha",
+    "district": "Anugul",
+    "block": "Dhenkanal"
+  },
+  "759150": {
+    "state": "Odisha",
+    "district": "Dhenkanal",
+    "block": "Dhenkanal"
+  },
+  "759151": {
+    "state": "Odisha",
+    "district": "Dhenkanal",
+    "block": "Dhenkanal"
+  },
+  "760011": {
+    "state": "Odisha",
+    "district": "Ganjam",
+    "block": "Berhampur"
+  },
+  "765010": {
+    "state": "Odisha",
+    "district": "Rayagada",
+    "block": "Rayagada"
+  },
+  "765011": {
+    "state": "Odisha",
+    "district": "Rayagada",
+    "block": "Rayagada"
+  },
+  "766003": {
+    "state": "Odisha",
+    "district": "Kalahandi",
+    "block": "Kalahandi"
+  },
+  "767071": {
+    "state": "Odisha",
+    "district": "Balangir",
+    "block": "Balangir"
+  },
+  "768007": {
+    "state": "Odisha",
+    "district": "Sambalpur",
+    "block": "Sambalpur"
+  },
+  "768024": {
+    "state": "Odisha",
+    "district": "Sambalpur",
+    "block": "Sambalpur"
+  },
+  "768053": {
+    "state": "Odisha",
+    "district": "Bargarh",
+    "block": "Sambalpur"
+  },
+  "768210": {
+    "state": "Odisha",
+    "district": "Sambalpur",
+    "block": "Sambalpur"
+  },
+  "769017": {
+    "state": "Odisha",
+    "district": "Sundargarh",
+    "block": "Rourkela"
+  },
+  "770025": {
+    "state": "Odisha",
+    "district": "Sundargarh",
+    "block": "Sundargarh"
+  },
+  "781002": {
+    "state": "Assam",
+    "district": "Kamrup Metro",
+    "block": "Guwahati"
+  },
+  "781033": {
+    "state": "Assam",
+    "district": "Kamrup Metro",
+    "block": "Guwahati"
+  },
+  "781320": {
+    "state": "Assam",
+    "district": "Barpeta",
+    "block": "Nalbari"
+  },
+  "782436": {
+    "state": "Assam",
+    "district": "Karbi Anglong",
+    "block": "Nagaon"
+  },
+  "783136": {
+    "state": "Assam",
+    "district": "South Salmara Mancachar",
+    "block": "Goalpara"
+  },
+  "783386": {
+    "state": "Assam",
+    "district": "Chirang",
+    "block": "Goalpara"
+  },
+  "786148": {
+    "state": "Assam",
+    "district": "Tinsukia",
+    "block": "Tinsukia"
+  },
+  "788738": {
+    "state": "Assam",
+    "district": "Karimganj",
+    "block": "Cachar"
+  },
+  "791004": {
+    "state": "Arunachal Pradesh",
+    "district": "East Siang",
+    "block": "Arunachal Pradesh"
+  },
+  "791114": {
+    "state": "Arunachal Pradesh",
+    "district": "Papum Pare",
+    "block": "Arunachal Pradesh"
+  },
+  "791701": {
+    "state": "Mizoram",
+    "district": "Aizawl",
+    "block": "Mizoram"
+  },
+  "792124": {
+    "state": "Arunachal Pradesh",
+    "district": "Papum Pare",
+    "block": "Arunachal Pradesh"
+  },
+  "793116": {
+    "state": "Meghalaya",
+    "district": "Ri Bhoi",
+    "block": "Meghalaya"
+  },
+  "793126": {
+    "state": "Meghalaya",
+    "district": "West Khasi Hills",
+    "block": "Meghalaya"
+  },
+  "793161": {
+    "state": "Meghalaya",
+    "district": "West Jaintia Hills",
+    "block": "Meghalaya"
+  },
+  "794004": {
+    "state": "Meghalaya",
+    "district": "West Garo Hills",
+    "block": "Meghalaya"
+  },
+  "794113": {
+    "state": "Meghalaya",
+    "district": "East Garo Hills",
+    "block": "Meghalaya"
+  },
+  "795011": {
+    "state": "Manipur",
+    "district": "Bishnupur",
+    "block": "Manipur"
+  },
+  "795105": {
+    "state": "Manipur",
+    "district": "Senapati",
+    "block": "Manipur"
+  },
+  "795121": {
+    "state": "Manipur",
+    "district": "Imphal West",
+    "block": "Manipur"
+  },
+  "796006": {
+    "state": "Mizoram",
+    "district": "Aizawl",
+    "block": "Mizoram"
+  },
+  "796015": {
+    "state": "Mizoram",
+    "district": "Aizawl",
+    "block": "Mizoram"
+  },
+  "796246": {
+    "state": "Mizoram",
+    "district": "Aizawl",
+    "block": "Mizoram"
+  },
+  "796291": {
+    "state": "Mizoram",
+    "district": "Saitual",
+    "block": "Mizoram"
+  },
+  "796470": {
+    "state": "Mizoram",
+    "district": "Aizawl",
+    "block": "Mizoram"
+  },
+  "797006": {
+    "state": "Nagaland",
+    "district": "Kohima",
+    "block": "Nagaland"
+  },
+  "798607": {
+    "state": "Nagaland",
+    "district": "Mokokchung",
+    "block": "Nagaland"
+  },
+  "798628": {
+    "state": "Nagaland",
+    "district": "Tuensang",
+    "block": "Nagaland"
+  },
+  "799011": {
+    "state": "Tripura",
+    "district": "Sepahijala",
+    "block": "Agartala"
+  },
+  "799113": {
+    "state": "Tripura",
+    "district": "Gomati",
+    "block": "Agartala"
+  },
+  "799132": {
+    "state": "Tripura",
+    "district": "Sepahijala",
+    "block": "Agartala"
+  },
+  "799282": {
+    "state": "Tripura",
+    "district": "Unakoti",
+    "block": "Dharmanagar"
+  },
+  "800030": {
+    "state": "Bihar",
+    "district": "Patna",
+    "block": "Patna Sahib Division"
+  },
+  "800031": {
+    "state": "Bihar",
+    "district": "Patna",
+    "block": "Patna"
+  },
+  "800032": {
+    "state": "Bihar",
+    "district": "Patna",
+    "block": "Patna"
+  },
+  "800034": {
+    "state": "Bihar",
+    "district": "Patna",
+    "block": "Patna"
+  },
+  "800035": {
+    "state": "Bihar",
+    "district": "Patna",
+    "block": "Patna Sahib Division"
+  },
+  "801106": {
+    "state": "Bihar",
+    "district": "Patna",
+    "block": "Patna"
+  },
+  "801107": {
+    "state": "Bihar",
+    "district": "Patna",
+    "block": "Patna"
+  },
+  "801308": {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "block": "Nalanda"
+  },
+  "802224": {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "block": "Bhojpur"
+  },
+  "804409": {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "block": "Aurangabadbihar"
+  },
+  "805113": {
+    "state": "Bihar",
+    "district": "Nawada",
+    "block": "Nawadha"
+  },
+  "805114": {
+    "state": "Bihar",
+    "district": "Nawada",
+    "block": "Nawadha"
+  },
+  "811306": {
+    "state": "Bihar",
+    "district": "Lakhisarai",
+    "block": "Munger"
+  },
+  "814168": {
+    "state": "Jharkhand",
+    "district": "Dumka",
+    "block": "Santhal Parganas"
+  },
+  "814170": {
+    "state": "Jharkhand",
+    "district": "Dumka",
+    "block": "Santhal Parganas"
+  },
+  "815117": {
+    "state": "Jharkhand",
+    "district": "Pakur",
+    "block": "Santhal Parganas"
+  },
+  "818142": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "821015": {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "block": "Rohtas"
+  },
+  "821114": {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "block": "Rohtas"
+  },
+  "824126": {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "block": "Aurangabadbihar"
+  },
+  "824304": {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "block": "Aurangabadbihar"
+  },
+  "825414": {
+    "state": "Jharkhand",
+    "district": "Chatra",
+    "block": "Hazaribagh"
+  },
+  "825415": {
+    "state": "Jharkhand",
+    "district": "Chatra",
+    "block": "Hazaribagh"
+  },
+  "826006": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "826007": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "826008": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "826009": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "826010": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "826011": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "826012": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "826013": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "827015": {
+    "state": "Jharkhand",
+    "district": "Bokaro",
+    "block": "Dhanbad"
+  },
+  "827016": {
+    "state": "Jharkhand",
+    "district": "Bokaro",
+    "block": "Dhanbad"
+  },
+  "828142": {
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "block": "Dhanbad"
+  },
+  "829115": {
+    "state": "Jharkhand",
+    "district": "Bokaro",
+    "block": "Dhanbad"
+  },
+  "831021": {
+    "state": "Jharkhand",
+    "district": "East Singhbum",
+    "block": "Singhbhum"
+  },
+  "832113": {
+    "state": "Jharkhand",
+    "district": "East Singhbum",
+    "block": "Singhbhum"
+  },
+  "834007": {
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "block": "Ranchi"
+  },
+  "834012": {
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "block": "Ranchi"
+  },
+  "834013": {
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "block": "Ranchi"
+  },
+  "834014": {
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "block": "Ranchi"
+  },
+  "835224": {
+    "state": "Jharkhand",
+    "district": "Gumla",
+    "block": "Gumla"
+  },
+  "841228": {
+    "state": "Bihar",
+    "district": "Siwan",
+    "block": "Siwan"
+  },
+  "841447": {
+    "state": "Bihar",
+    "district": "Siwan",
+    "block": "Siwan"
+  },
+  "842006": {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "block": "Muzaffarpur"
+  },
+  "843116": {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "block": "Muzaffarpur"
+  },
+  "843131": {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "block": "Muzaffarpur"
+  },
+  "843132": {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "block": "Muzaffarpur"
+  },
+  "843335": {
+    "state": "Bihar",
+    "district": "Sheohar",
+    "block": "Sitamarhi"
+  },
+  "845402": {
+    "state": "Bihar",
+    "district": "Purbi Champaran",
+    "block": "East Champaran"
+  },
+  "845404": {
+    "state": "Bihar",
+    "district": "Pashchim Champaran",
+    "block": "West Champaran"
+  },
+  "845405": {
+    "state": "Bihar",
+    "district": "Purbi Champaran",
+    "block": "East Champaran"
+  },
+  "845439": {
+    "state": "Bihar",
+    "district": "Pashchim Champaran",
+    "block": "West Champaran"
+  },
+  "845441": {
+    "state": "Bihar",
+    "district": "Purbi Champaran",
+    "block": "East Champaran"
+  },
+  "846010": {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "block": "Darbhanga"
+  },
+  "847202": {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "block": "Darbhanga"
+  },
+  "847412": {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "block": "Madhubani"
+  },
+  "848103": {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "block": "Samastipur"
+  },
+  "848104": {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "block": "Samastipur"
+  },
+  "851110": {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "block": "Begusarai"
+  },
+  "851121": {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "block": "Begusarai"
+  },
+  "851206": {
+    "state": "Bihar",
+    "district": "Khagaria",
+    "block": "Begusarai"
+  },
+  "852133": {
+    "state": "Bihar",
+    "district": "Supaul",
+    "block": "Saharsa"
+  },
+  "852134": {
+    "state": "Bihar",
+    "district": "Supaul",
+    "block": "Saharsa"
+  },
+  "854110": {
+    "state": "Bihar",
+    "district": "Katihar",
+    "block": "Divisional Office Katihar"
+  },
+  "900056": {
+    "state": "Uttar Pradesh",
+    "district": "Kushi Nagar",
+    "block": "1Cbpo Dv"
+  },
+  "900099": {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "block": "2Cbpo Dv"
   }
 }
