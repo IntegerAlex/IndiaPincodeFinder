@@ -16,7 +16,8 @@ const {
   pinToAddress, 
   pinToState, 
   pinToDistrict, 
-  pinToTaluka 
+  pinToTaluka,
+  searchPincodes
 } = require('india-pincode-finder');
 
 // ES Modules
@@ -24,7 +25,8 @@ import {
   pinToAddress, 
   pinToState, 
   pinToDistrict, 
-  pinToTaluka 
+  pinToTaluka,
+  searchPincodes
 } from 'india-pincode-finder';
 
 // Get the full address details for a pincode
@@ -42,6 +44,13 @@ console.log(pinToDistrict(411001));
 // Get the taluka/block for a pincode
 console.log(pinToTaluka(411001));
 // Output: 'Pune City'
+
+// Search pincodes by district, block, or office name (case-insensitive substring match)
+console.log(searchPincodes('pune'));
+// [{ pincode: 410301, state: '...', district: '...', ... }, ...]
+
+console.log(searchPincodes('pune h.o'));
+// includes full address object for 411001
 ```
 
 ## API
@@ -85,6 +94,15 @@ Get taluka/block for a pincode.
 - **Returns**: 
   - `string`: The name of the taluka/block if found.
   - `null`: If no data is found for the given pincode.
+
+### searchPincodes(name: string): PincodeSearchResult[]
+
+Search district, block, and officename for a case-insensitive substring match.
+
+- **name**: Search query string
+- **Returns**:
+  - `PincodeSearchResult[]`: Full address objects with `pincode` included, sorted ascending by pincode
+  - `[]`: If the query is empty/whitespace or no matches are found
 
 ## License
 
