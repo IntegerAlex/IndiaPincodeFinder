@@ -1,16 +1,20 @@
 # 🇮🇳 IndiaPincodeFinder
+
 [![PyPI Downloads](https://static.pepy.tech/badge/indiapincodefinder)](https://pepy.tech/projects/indiapincodefinder)
 ![NPM Downloads](https://img.shields.io/npm/dt/india-pincode-finder?style=plastic&logo=npm)
 
 **IndiaPincodeFinder** is a versatile module available in both **Python** and **JavaScript (Node.js)** that helps you **find detailed Indian address information by using a valid 6-digit PIN code**. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.
+
+Live demo: [india-pincode-finder.gossorg.in](https://india-pincode-finder.gossorg.in)
 
 ---
 
 ## 📦 Features
 
 - 🔎 Lookup addresses by PIN code (Postal Index Number)
-- 🧾 Returns location metadata: state, district, taluka.
-- ⚡ Fast lookup with offline JSON dataset (no API call needed)
+- 🔍 **Search pincodes** by district, block, or office name (v4.0.0)
+- 🧾 Returns full metadata: state, district, block, circle, region, division
+- ⚡ Fast lookup with offline dataset (no API call needed)
 - 🧩 Plug-and-play for both Python and Node.js applications
 
 ---
@@ -19,8 +23,6 @@
 
 ### 🚀 Installation (Python)
 
-Install via `pip`:
-
 ```bash
 pip install indiapincodefinder
 ```
@@ -28,20 +30,33 @@ pip install indiapincodefinder
 ### 📖 Usage (Python)
 
 ```python
-import indiapincodefinder
+from indiapincodefinder import (
+    pin_to_address,
+    pin_to_state,
+    pin_to_district,
+    pin_to_taluka,
+    search_pincodes,
+)
 
-# Get address by Pincode
-address = indiapincodefinder.pin_to_address(pincode=400001)
+# Get full address details for a pincode
+address = pin_to_address(411001)
+# → {'state': 'Maharashtra', 'district': 'Pune', 'block': 'Pune City', ...}
 
-# Get state by Pincode
-state = indiapincodefinder.pin_to_state(pincode=400001)
+# Get state for a pincode
+state = pin_to_state(411001)
+# → 'Maharashtra'
 
-# Get district by Pincode
-district = indiapincodefinder.pin_to_district(pincode=400001)
+# Get district for a pincode
+district = pin_to_district(411001)
+# → 'Pune'
 
-# Get taluka by Pincode
-taluka = indiapincodefinder.pin_to_taluka(pincode=400001)
+# Get taluka/block for a pincode
+taluka = pin_to_taluka(411001)
+# → 'Pune City'
 
+# Search pincodes by district, block, or office name
+results = search_pincodes("pune")
+# → [{'pincode': 410301, 'district': 'Pune', ...}, ...]
 ```
 
 ---
@@ -50,8 +65,6 @@ taluka = indiapincodefinder.pin_to_taluka(pincode=400001)
 
 ### 🚀 Installation (JavaScript)
 
-Install via `npm`:
-
 ```bash
 npm install india-pincode-finder
 ```
@@ -59,97 +72,100 @@ npm install india-pincode-finder
 ### 📖 Usage (JavaScript)
 
 ```javascript
-// CommonJS
-const { 
-  pinToAddress, 
-  pinToState, 
-  pinToDistrict, 
-  pinToTaluka,
-  clearCache
-} = require('india-pincode-finder');
-
 // ES Modules
-import { 
-  pinToAddress, 
-  pinToState, 
-  pinToDistrict, 
+import {
+  pinToAddress,
+  pinToState,
+  pinToDistrict,
   pinToTaluka,
-  clearCache
-} from 'india-pincode-finder';
+  searchPincodes,
+} from "india-pincode-finder";
+
+// CommonJS
+const {
+  pinToAddress,
+  pinToState,
+  pinToDistrict,
+  pinToTaluka,
+  searchPincodes,
+} = require("india-pincode-finder");
 
 // Get the full address details for a pincode
-console.log(pinToAddress(411001));
-// Output: { district: 'Pune', block: 'Pune City', state: 'Maharashtra' }
+pinToAddress(411001);
+// → { district: 'Pune', block: 'Pune City', state: 'Maharashtra', ... }
 
 // Get the state for a pincode
-console.log(pinToState(411001));
-// Output: 'Maharashtra'
+pinToState(411001);
+// → 'Maharashtra'
 
 // Get the district for a pincode
-console.log(pinToDistrict(411001));
-// Output: 'Pune'
+pinToDistrict(411001);
+// → 'Pune'
 
 // Get the taluka/block for a pincode
-console.log(pinToTaluka(411001));
-// Output: 'Pune City'
+pinToTaluka(411001);
+// → 'Pune City'
 
-// Clear the cache (useful if your application needs to refresh data)
-clearCache();
+// Search pincodes by district, block, or office name
+searchPincodes("pune");
+// → [{ pincode: 410301, district: 'Pune', ... }, ...]
 ```
 
-### API (JavaScript)
+---
 
-### pinToAddress(pincode: number): object | null
+## API Reference
+
+### `pinToAddress(pincode): object | null`
 
 Get full address details for a pincode.
 
 - **pincode**: 6-digit PIN code (number)
-- **Returns**: 
-  - `object`: An object like `{ district: string; block: string; state: string; }` if found.
-  - `null`: If no data is found for the given pincode.
+- **Returns**: Object with `state`, `district`, `block`, `officename`, `circlename`, `regionname`, `divisionname`, or `null` if not found.
+- **Throws**: `Error` if pincode is not a valid 6-digit number (JS only).
 
-### pinToState(pincode: number): string | null
+### `pinToState(pincode): string | null`
 
 Get state for a pincode.
 
-- **pincode**: 6-digit PIN code (number)
-- **Returns**: 
-  - `string`: The name of the state if found.
-  - `null`: If no data is found for the given pincode.
-
-### pinToDistrict(pincode: number): string | null
+### `pinToDistrict(pincode): string | null`
 
 Get district for a pincode.
 
-- **pincode**: 6-digit PIN code (number)
-- **Returns**: 
-  - `string`: The name of the district if found.
-  - `null`: If no data is found for the given pincode.
-
-### pinToTaluka(pincode: number): string | null
+### `pinToTaluka(pincode): string | null`
 
 Get taluka/block for a pincode.
 
-- **pincode**: 6-digit PIN code (number)
-- **Returns**: 
-  - `string`: The name of the taluka/block if found.
-  - `null`: If no data is found for the given pincode.
+### `searchPincodes(query): PincodeSearchResult[]`
 
-### clearCache(): void
+Search pincodes by district, block, or office name.
 
-Clears both the in-memory and disk cache.
+- **query**: Search string (case-insensitive, matches against `district`, `block`, `officename`)
+- **Returns**: Array of matching pincode objects, sorted by pincode ascending.
 
-- **Returns**: Nothing (void)
-- **Use case**: Call this method if you want to force a fresh load of data from the source JSON file
+### `clearCache(): void` (JS only)
 
-### Caching Mechanism (JavaScript)
+Clears both the in-memory and disk cache. Useful to force a fresh load of data.
 
-The package uses a two-level caching strategy for optimal performance:
+### `loadPincodeData(jsonPath?): object` (JS only)
 
-1. **In-memory cache**: Provides the fastest access for frequently used data
-2. **Disk cache**: Persists between application runs, improving startup performance
+Loads pincode data with caching. Auto-called on module import.
 
-The cache is automatically invalidated when the source data file is modified.
+### `load_pincode_data()` (Python only)
+
+Loads pincode data into cache. Auto-called on import.
+
+---
+
+## Caching Mechanism (JavaScript)
+
+The package uses a two-level caching strategy:
+
+1. **In-memory cache**: Fastest access for frequently used data
+2. **Disk cache**: Persists between runs, improving startup performance
+
+Cache is automatically invalidated when the source data file is modified.
+
+---
 
 ## 📄 License
 
