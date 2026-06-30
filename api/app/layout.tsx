@@ -92,6 +92,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: siteUrl,
+    types: {
+      "application/xml": `${siteUrl}/sitemap.xml`,
+    },
   },
 };
 
