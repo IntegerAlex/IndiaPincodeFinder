@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       india-pincode-finder:
-        specifier: ^4.0.0
-        version: 4.0.0
+        specifier: ^4.0.1
+        version: 4.0.1
       next:
         specifier: 16.2.9
         version: 16.2.9(@babel/core@7.29.7)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -1273,8 +1273,8 @@ packages:
     resolution: {integrity: sha512-JmXMZ6wuvDmLiHEml9ykzqO6lwFbof0GG4IkcGaENdCRDDmMVnny7s5HsIgHCbaq0w2MyPhDqkhTUgS2LU2PHA==}
     engines: {node: '>=0.8.19'}
 
-  india-pincode-finder@4.0.0:
-    resolution: {integrity: sha512-nLJLGfGHJSva1vshqtYcJHU3fyJ/yyVfzBhIAji8wzIhBH7OUVq6Qh2tkTXzVA51z02qdoXJyeAup0hVWmKBMw==}
+  india-pincode-finder@4.0.1:
+    resolution: {integrity: sha512-yXG3BvLe9gchwBzz84/0mfXBYX2/Gu6786V+W0b+w3vw29Sy2zvRjhmkPg93Nd+a/rKGzsiKl5n1TGe7LJaVxw==}
 
   internal-slot@1.1.0:
     resolution: {integrity: sha512-4gd7VpWNQNB4UKKCFFVcp1AVv+FMOgs9NKzjHKusc8jTMhd5eL1NqQqOpE0KzMds804/yHlglp3uxgluOqAPLw==}
@@ -3315,7 +3315,7 @@ snapshots:
 
   imurmurhash@0.1.4: {}
 
-  india-pincode-finder@4.0.0: {}
+  india-pincode-finder@4.0.1: {}
 
   internal-slot@1.1.0:
     dependencies:

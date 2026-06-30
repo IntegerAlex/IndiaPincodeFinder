@@ -1,6 +1,6 @@
 {
   "name": "india-pincode-finder",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Find detailed Indian address information by using a valid 6-digit PIN code. Ideal for logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.",
   "type": "module",
   "main": "dist/index.js",
@@ -49,6 +49,7 @@
   },
   "homepage": "https://github.com/IntegerAlex/IndiaPincodeFinder#readme",
   "devDependencies": {
+    "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^16.0.1",
     "@rollup/plugin-terser": "^1.0.0",
     "@rollup/plugin-typescript": "^12.1.3",

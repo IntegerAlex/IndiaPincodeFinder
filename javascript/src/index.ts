@@ -1,10 +1,4 @@
-import * as fs from 'fs';
-import * as path from 'path';
-import { fileURLToPath } from 'url';
-
-// Get __dirname equivalent for ES modules
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+import pincodeDataJson from 'pincode-data';
 
 // Type definitions
 export interface PincodeData {
@@ -34,29 +28,19 @@ function matchesSearchQuery(data: PincodeData, query: string): boolean {
 let pincodeCache: { [key: string]: PincodeData } = {};
 let cacheLoaded = false;
 
+const pincodeData: { [key: string]: PincodeData } = pincodeDataJson as any;
+
 /**
  * Loads pincode data with in-memory caching
- * @param jsonPath Optional path to a custom JSON file
  */
-export function loadPincodeData(jsonPath?: string): { [key: string]: PincodeData } {
-  // Return in-memory cache if available
+export function loadPincodeData(): { [key: string]: PincodeData } {
   if (cacheLoaded && Object.keys(pincodeCache).length > 0) {
     return pincodeCache;
   }
 
-  const dataPath = jsonPath || path.join(__dirname, '..', 'data', 'pincode.json');
-  
-  try {
-    // Load and parse fresh data
-    const rawData = fs.readFileSync(dataPath, 'utf8');
-    pincodeCache = JSON.parse(rawData);
-    cacheLoaded = true;
-
-    return pincodeCache;
-  } catch (error) {
-    console.error(`Error loading pincode data: ${error}`);
-    return {};
-  }
+  pincodeCache = pincodeData;
+  cacheLoaded = true;
+  return pincodeCache;
 }
 
 /**
