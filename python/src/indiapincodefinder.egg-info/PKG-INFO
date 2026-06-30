@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: indiapincodefinder
-Version: 3.1.0
+Version: 4.0.0
 Summary: IndiaPincodeFinder is a Python module that helps you find detailed Indian address information by using a valid 6-digit PIN code. It's ideal for use in logistics, address validation, fintech onboarding (KYC), e-commerce, and mapping services.
 Author-email: Akshat Kotpalliwar <akshatkot@gmail.com>, Aniket Dhumal <anikethd1410@gmail.com>
 License-Expression: GPL-3.0-only
@@ -45,6 +45,8 @@ print(pin_to_taluka(411001))
 # Search pincodes by district, block, or office name (case-insensitive substring match)
 print(search_pincodes("pune"))
 # [{'pincode': 410301, 'state': '...', 'district': '...', ...}, ...]
+print(search_pincodes("pune h.o"))
+# includes full address object for 411001
 ```
 
 ## License
