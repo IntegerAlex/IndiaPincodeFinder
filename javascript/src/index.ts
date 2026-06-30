@@ -11,7 +11,23 @@ export interface PincodeData {
   district: string;
   block: string;
   state: string;
-  [key: string]: string;
+  officename?: string;
+  circlename?: string;
+  regionname?: string;
+  divisionname?: string;
+}
+
+export interface PincodeSearchResult extends PincodeData {
+  pincode: number;
+}
+
+const SEARCH_FIELDS = ['district', 'block', 'officename'] as const;
+
+function matchesSearchQuery(data: PincodeData, query: string): boolean {
+  return SEARCH_FIELDS.some((field) => {
+    const value = (data[field] || '').toLowerCase();
+    return value.includes(query);
+  });
 }
 
 // In-memory cache for frequently accessed data
@@ -105,6 +121,29 @@ export function pinToTaluka(pincode: number): string | null {
   }
   const data = pinToAddress(pincode);
   return data?.block || null;
+}
+
+/**
+ * Search district, block, and officename for a case-insensitive substring match.
+ * @param name Search query
+ * @returns Matching address objects with pincode included, sorted ascending by pincode
+ */
+export function searchPincodes(name: string): PincodeSearchResult[] {
+  const query = name.trim().toLowerCase();
+  if (!query) {
+    return [];
+  }
+
+  const data = loadPincodeData();
+  const results: PincodeSearchResult[] = [];
+
+  for (const pincode of Object.keys(data)) {
+    if (matchesSearchQuery(data[pincode], query)) {
+      results.push({ pincode: Number(pincode), ...data[pincode] });
+    }
+  }
+
+  return results.sort((a, b) => a.pincode - b.pincode);
 }
 
 // Auto-load pincode data when module is imported

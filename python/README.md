@@ -11,7 +11,7 @@ pip install indiapincodefinder
 ## Usage
 
 ```python
-from indiapincodefinder import pin_to_address, pin_to_state, pin_to_district, pin_to_taluka
+from indiapincodefinder import pin_to_address, pin_to_state, pin_to_district, pin_to_taluka, search_pincodes
 
 # Get the full address details for a pincode
 print(pin_to_address(411001))
@@ -24,6 +24,12 @@ print(pin_to_district(411001))
 
 # Get the taluka/block for a pincode
 print(pin_to_taluka(411001))
+
+# Search pincodes by district, block, or office name (case-insensitive substring match)
+print(search_pincodes("pune"))
+# [{'pincode': 410301, 'state': '...', 'district': '...', ...}, ...]
+print(search_pincodes("pune h.o"))
+# includes full address object for 411001
 ```
 
 ## License

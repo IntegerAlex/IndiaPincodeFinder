@@ -4,7 +4,7 @@ Test script for IndiaPincodeFinder package
 """
 
 try:
-    from indiapincodefinder import pin_to_address, pin_to_state, pin_to_district, pin_to_taluka
+    from indiapincodefinder import pin_to_address, pin_to_state, pin_to_district, pin_to_taluka, search_pincodes
     print("✓ Successfully imported all functions from indiapincodefinder")
 except ImportError as e:
     print(f"✗ Import failed: {e}")
@@ -45,6 +45,56 @@ if invalid_result is None:
     print("✓ Correctly returns None for invalid pincode")
 else:
     print(f"✗ Unexpected result for invalid pincode: {invalid_result}")
+
+print("\n" + "="*60)
+print("TESTING SEARCH_PINCODES")
+print("="*60)
+
+pune_results = search_pincodes("pune")
+if pune_results:
+    print(f"✓ search_pincodes('pune') returned {len(pune_results)} results")
+    for address in pune_results:
+        district = (address.get("district") or "").lower()
+        block = (address.get("block") or "").lower()
+        officename = (address.get("officename") or "").lower()
+        if "pune" not in district and "pune" not in block and "pune" not in officename:
+            print(f"✗ Pincode {address.get('pincode')} does not match query in district, block, or officename")
+            exit(1)
+        if "pincode" not in address or "state" not in address:
+            print("✗ Search result missing full address fields")
+            exit(1)
+    if not all(pune_results[i]["pincode"] <= pune_results[i + 1]["pincode"] for i in range(len(pune_results) - 1)):
+        print("✗ Search results not sorted by ascending pincode")
+        exit(1)
+    print(f"  - Sample results: {pune_results[:3]}")
+else:
+    print("✗ search_pincodes('pune') returned no results")
+    exit(1)
+
+if search_pincodes("PUNE") == pune_results:
+    print("✓ search_pincodes('PUNE') matches case-insensitive results")
+else:
+    print("✗ Case-insensitive search results differ")
+    exit(1)
+
+if search_pincodes("999999xyz") == []:
+    print("✓ search_pincodes('999999xyz') returns empty list")
+else:
+    print("✗ Unexpected results for non-matching query")
+    exit(1)
+
+if search_pincodes("") == [] and search_pincodes("   ") == []:
+    print("✓ Empty and whitespace queries return empty list")
+else:
+    print("✗ Empty or whitespace query did not return empty list")
+    exit(1)
+
+office_results = search_pincodes("pune h.o")
+if any(result.get("pincode") == 411001 for result in office_results):
+    print("✓ search_pincodes('pune h.o') matches by officename")
+else:
+    print("✗ search_pincodes('pune h.o') did not match expected officename")
+    exit(1)
 
 print("\n" + "="*60)
 print("TESTING COMPLETE")

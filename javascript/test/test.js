@@ -7,7 +7,8 @@ import {
   pinToAddress,
   pinToState, 
   pinToDistrict, 
-  pinToTaluka 
+  pinToTaluka,
+  searchPincodes
 } from '../dist/index.mjs';
 
 console.log('✓ Successfully imported all functions from india-pincode-finder');
@@ -49,6 +50,65 @@ if (invalidResult === null) {
   console.log('✓ Correctly returns null for invalid pincode');
 } else {
   console.log(`✗ Unexpected result for invalid pincode: ${JSON.stringify(invalidResult)}`);
+}
+
+console.log('\n' + '='.repeat(60));
+console.log('TESTING SEARCH_PINCODES');
+console.log('='.repeat(60));
+
+const puneResults = searchPincodes('pune');
+if (puneResults.length > 0) {
+  console.log(`✓ searchPincodes('pune') returned ${puneResults.length} results`);
+  for (const address of puneResults) {
+    const district = (address.district || '').toLowerCase();
+    const block = (address.block || '').toLowerCase();
+    const officename = (address.officename || '').toLowerCase();
+    if (!district.includes('pune') && !block.includes('pune') && !officename.includes('pune')) {
+      console.log(`✗ Pincode ${address.pincode} does not match query in district, block, or officename`);
+      process.exit(1);
+    }
+    if (address.pincode === undefined || address.state === undefined) {
+      console.log('✗ Search result missing full address fields');
+      process.exit(1);
+    }
+  }
+  if (!puneResults.every((r, i, a) => i === 0 || a[i - 1].pincode <= r.pincode)) {
+    console.log('✗ Search results not sorted by ascending pincode');
+    process.exit(1);
+  }
+  const sample = puneResults.slice(0, 3);
+  console.log(`  - Sample results: ${JSON.stringify(sample)}`);
+} else {
+  console.log("✗ searchPincodes('pune') returned no results");
+  process.exit(1);
+}
+
+if (JSON.stringify(searchPincodes('PUNE')) === JSON.stringify(puneResults)) {
+  console.log("✓ searchPincodes('PUNE') matches case-insensitive results");
+} else {
+  console.log('✗ Case-insensitive search results differ');
+  process.exit(1);
+}
+
+if (searchPincodes('999999xyz').length === 0) {
+  console.log("✓ searchPincodes('999999xyz') returns empty list");
+} else {
+  console.log('✗ Unexpected results for non-matching query');
+  process.exit(1);
+}
+
+if (searchPincodes('').length === 0 && searchPincodes('   ').length === 0) {
+  console.log('✓ Empty and whitespace queries return empty list');
+} else {
+  console.log('✗ Empty or whitespace query did not return empty list');
+  process.exit(1);
+}
+
+if (searchPincodes('pune h.o').some((result) => result.pincode === 411001)) {
+  console.log("✓ searchPincodes('pune h.o') matches by officename");
+} else {
+  console.log("✗ searchPincodes('pune h.o') did not match expected officename");
+  process.exit(1);
 }
 
 console.log('\n' + '='.repeat(60));
