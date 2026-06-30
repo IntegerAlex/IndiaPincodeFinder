@@ -53,8 +53,7 @@ print("="*60)
 pune_results = search_pincodes("pune")
 if pune_results:
     print(f"✓ search_pincodes('pune') returned {len(pune_results)} results")
-    sample = pune_results[:3]
-    for address in sample:
+    for address in pune_results:
         district = (address.get("district") or "").lower()
         block = (address.get("block") or "").lower()
         officename = (address.get("officename") or "").lower()
@@ -64,7 +63,10 @@ if pune_results:
         if "pincode" not in address or "state" not in address:
             print("✗ Search result missing full address fields")
             exit(1)
-    print(f"  - Sample results: {sample}")
+    if not all(pune_results[i]["pincode"] <= pune_results[i + 1]["pincode"] for i in range(len(pune_results) - 1)):
+        print("✗ Search results not sorted by ascending pincode")
+        exit(1)
+    print(f"  - Sample results: {pune_results[:3]}")
 else:
     print("✗ search_pincodes('pune') returned no results")
     exit(1)

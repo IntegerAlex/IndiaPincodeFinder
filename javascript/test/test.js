@@ -59,8 +59,7 @@ console.log('='.repeat(60));
 const puneResults = searchPincodes('pune');
 if (puneResults.length > 0) {
   console.log(`✓ searchPincodes('pune') returned ${puneResults.length} results`);
-  const sample = puneResults.slice(0, 3);
-  for (const address of sample) {
+  for (const address of puneResults) {
     const district = (address.district || '').toLowerCase();
     const block = (address.block || '').toLowerCase();
     const officename = (address.officename || '').toLowerCase();
@@ -73,6 +72,11 @@ if (puneResults.length > 0) {
       process.exit(1);
     }
   }
+  if (!puneResults.every((r, i, a) => i === 0 || a[i - 1].pincode <= r.pincode)) {
+    console.log('✗ Search results not sorted by ascending pincode');
+    process.exit(1);
+  }
+  const sample = puneResults.slice(0, 3);
   console.log(`  - Sample results: ${JSON.stringify(sample)}`);
 } else {
   console.log("✗ searchPincodes('pune') returned no results");
